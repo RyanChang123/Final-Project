@@ -71,7 +71,13 @@ Acknowledgment: We are effectively answering questions 1.1-1.3 and 2.1-2.3 from 
 
 - need to clean the data and remove all blanks 
 - need to ensure that all the data points are valid and continous 
-- we need 
+- need to organize data into input folders 
+    - one for slow growers
+    - one for stalworths 
+    - one for fast growers 
+- need to create a input folder that has all of that information 
+- need to create each of the variables needed based on the input data 
+- finally need to output a csv for each highlighting why the companies might fall into each of the categories 
 
 
 

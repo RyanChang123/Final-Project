@@ -123,7 +123,18 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
 - Simulate the return of the Peter lynch Screened Companies over that time. 
 
 **Step 5: Create a List of Wilshire 5000 Returns**
--- Create a dataset which returns their market cap and stock price between 2020-2023.
+- Create a dataset which returns the Wilshire stock price between 2020-2023.
+
+**Step 6: Draw Conclusion**
+- Compare the return of the screened companies compared to the return of the index
+    - Do this for each screened grouping
+
+### Resources
+- [The Unusual Whales Congress Trading Report for 2023](https://unusualwhales.com/politics/article/congress-trading-report-2023)
+- [Tracking Congress Stock Trades In Python](https://entreprenerdly.com/tracking-congress-stock-trades-in-python/)
+- [Stock Trades Reported by Nearly a Fifth of Congress Show Possible Conflicts](https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html)
+    
+
 
 
 

@@ -6,13 +6,49 @@
 
 In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilkshire 5000.
 
+### Necessary Data
+
+- **One Up On Wall Street**: Peter Lynch's book.
+  - **Source:** [One Up on Wall Street](https://yourknowledgedigest.files.wordpress.com/2020/04/one-up-on-wall-street.pdf)
+- **Wilshire 5000 Stock List**: Wilkshire 5000 stock list.
+  - **Source:**  [Wilshire 5000 List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)
+- **Stock Data**: Key Stock Information.
+  - **Source:** Yahoo Finance
+- **Wilshire 5000**: Performance from 2020-Present.
+  - **Source:** Yahoo Finance
+
 ### Final Datasets
-| Criteria                                        | Description                                            |
-|-------------------------------------------------|--------------------------------------------------------|
-| Years of Data                                   | 5 years                                                |
-| Dividends Paid                                  | Need to know if dividends were paid every year        |
-| Consistent Dividend Increase                    | Need to know if dividends were consistently increased |
-| Percentage of Net Income Paid Out               | Lower percentage is better                             |
+
+**Slow Growers**: 
+    - Key Information:
+        - Data for 5 years (2016-2020)
+        - Were Dividends Paid?
+        - Dividends Growth Year over Year
+        - Dividends Paid as Percentage of Net Income
+
+|         | Date YR end |           |       |
+|---------|--------------|-----------|-------|
+|         | 2015         | 2015      | 2015  |
+|         | Dividend Amount | Net Income | Dividend Growth |
+| Stock   |              |           |       |
+
+
+
+
+**Stalwarts**: 
+| Criteria                                 | Description                                                                                       |
+|------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Years of Data                            | 5 years                                                                                           |
+| PE Ratio Comparison                     | Compare the company's PE ratio to the industry average PE ratio by year                           |
+| Long-Term Net Income Growth Rate        | Ensure long-term net income growth rate is similar or the same as historical growth rates         |
+| Market Capitalization                    | Ensure the company falls into the category of mega-cap or large-cap according to market value    |
+
+**Fast Growers**: 
+| Criteria                                 | Description                                                                         |
+|------------------------------------------|-------------------------------------------------------------------------------------|
+| Years of Data                            | 5 years                                                                             |
+| Net Income Growth                       | Proper net income growth rates: 20% - 25%; Avoid less than 10% or over 25%           |
+| PE Ratio Alignment with Growth Rate     | Ensure the PE ratio of the stock is near the growth rate of the company              |
 
 
 1. Slow growers

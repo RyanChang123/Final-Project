@@ -6,8 +6,15 @@
 
 In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilkshire 5000.
 
-Necessary Data¶
-This section should cover:
+### Final Datasets
+| Criteria                                        | Description                                            |
+|-------------------------------------------------|--------------------------------------------------------|
+| Years of Data                                   | 5 years                                                |
+| Dividends Paid                                  | Need to know if dividends were paid every year        |
+| Consistent Dividend Increase                    | Need to know if dividends were consistently increased |
+| Percentage of Net Income Paid Out               | Lower percentage is better                             |
+
+
 1. Slow growers
     - 5 years of data for slow-growing companies 
     - Need to know if the company has paid out dividends for every year?

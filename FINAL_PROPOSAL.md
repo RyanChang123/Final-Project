@@ -6,6 +6,24 @@
 
 In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilkshire 5000.
 
+#### Report File
+
+To accomplish this, The Report File will Consist of 4 Sections:
+
+1. **Methodology Outline**
+   - Peter Lynch background
+   - Slow Grower, Stalwort, Fast Grower methodology breakdown
+2. **Data Collection**
+   - Data collection from Yahoo Finance
+   - Data transformation steps
+3. **Data Screening**
+   - Finalization of screening 
+   - Information regarding screening findings
+4. **Final Analysis** 
+   - Compairson to Wilshire return
+   - Breakdown of comparison by screening criterion
+   - Final conclusion and analysis
+ 
 ### Necessary Data
 
 - **One Up On Wall Street**: Peter Lynch's book.
@@ -45,14 +63,11 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
   - Inustry Average PE Ratio
   - Market Capitalization
 
-
 |            | Year End Data |          |         |         |         |         |
 |------------|---------------|----------|---------|---------|---------|---------|
 |            | "2015-2019"   |          |         |         |         |         |
 |            | Price         | Net Income | Net Income Growth | PE Ratio | CUSIP   | Industry PE Ratio | Market Cap |
 | Stock      |               |           |                   |          |         |                    |            |
-
-
 
 **Fast Growers**: 
 - Key Information:
@@ -88,23 +103,24 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
 | Stock    |               |
 
 
-
 #### Data Transformation
 
 **Step 1: Prepare and Clean Data**
 - Clean the data: Ensure critical columns have no missing values. Remove firms with missing critical values. 
 
 **Step 2: Pull Necessary Data From Each Dataset**
-- Slow Growers
-- Stalworths 
-- Fast Growers 
+- Slow_Growers.csv
+- Stalworths.csv
+- Fast_Growers.csv
+- Wilshire_return.csv
+- Screened_return.csv
 
 **Step 3: Screen Datasets for Peter Lynch Criterion**
 - Slow Growers
     - Paid Dividends Every Year?
     - Have Dividends Paid Decreased In Any Year?
     - Dividends Paid Less than 40% of Net Income?
-2. Stalwarts 
+- Stalwarts 
     - Company PE Ratio Lower Than Industy Average?
     - Has There Been Consistent Net Income Growth?
     - Market Cap IS Large-Cap or Mega-Cap
@@ -113,7 +129,7 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
         - mid-cap: market value between $2 billion and $10 billion;
         - small-cap: market value between $250 million and $2 billion; and
         - micro-cap: market value of less than $250 million.
-3. Fast Growers 
+- Fast Growers 
     - Is Net Income Growth Between 20% - 25%?
     - Is The PE Ratio Between 25 - 30?
 
@@ -130,9 +146,8 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
     - Do this for each screened grouping
 
 ### Resources
-- [The Unusual Whales Congress Trading Report for 2023](https://unusualwhales.com/politics/article/congress-trading-report-2023)
-- [Tracking Congress Stock Trades In Python](https://entreprenerdly.com/tracking-congress-stock-trades-in-python/)
-- [Stock Trades Reported by Nearly a Fifth of Congress Show Possible Conflicts](https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html)
+- [Whilshire List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)
+- [One Up On Wall Street](https://yourknowledgedigest.files.wordpress.com/2020/04/one-up-on-wall-street.pdf)
     
 
 

@@ -1,16 +1,10 @@
-How to screen securities based on Peter Lynch's methodology:
+# RESEARCH PROPOSAL: Performance of Wilkshire 5000 Firms Screened Through Peter Lynch's Methodology vs. Broader Market
 
-1. Slow Growers ***
-2. Stalwarts ***
-3. Fast Growers ***
+## By Ryan Chang
 
-4. Cyclical (not quantitative enough to do)
-5. Turnarounds (not quantitative enough to do)
-6. Asset Plays (not quantitative enough to do)
+### Research Question
 
-What do we want to know or what problems are we trying to solve? As in the midterm, you should list (1) the “bigger” question/debate/problem you’re interested in, and also (2) the specific research question(s) you’ll actually try to answer.
-
-Can utilizing Peter Lynch's investment methodology still work today? If so can we make a stock screener that is able to identify his categorization for Slow Growers, Stalwarts, and Fast Growers? How would an equal weight of these stocks perform against the broader market?
+In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilkshire 5000.
 
 Necessary Data¶
 This section should cover:

@@ -20,35 +20,50 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
 ### Final Datasets
 
 **Slow Growers**: 
-    - Key Information:
-        - Data for 5 years (2016-2020)
-        - Were Dividends Paid?
-        - Dividends Growth Year over Year
-        - Dividends Paid as Percentage of Net Income
 
-|         | Date YR end |           |       |
+- Key Information:
+  - Year End Data for 5 years (2016-2020)
+  - Were Dividends Paid?
+  - Dividends Growth Year over Year
+  - Dividends Paid as Percentage of Net Income
+
+|         | Year End Data |           |       |
 |---------|--------------|-----------|-------|
-|         | 2015         | 2015      | 2015  |
+|         |      "2016-2020"     |         |         |                 
 |         | Dividend Amount | Net Income | Dividend Growth |
 | Stock   |              |           |       |
 
 
-
-
 **Stalwarts**: 
-| Criteria                                 | Description                                                                                       |
-|------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Years of Data                            | 5 years                                                                                           |
-| PE Ratio Comparison                     | Compare the company's PE ratio to the industry average PE ratio by year                           |
-| Long-Term Net Income Growth Rate        | Ensure long-term net income growth rate is similar or the same as historical growth rates         |
-| Market Capitalization                    | Ensure the company falls into the category of mega-cap or large-cap according to market value    |
+- Key Information:
+  - Year End Data for 5 years (2016-2020)
+  - Stock Price 
+  - Net Income
+  - PE Ratio
+  - CUSIP
+  - Inustry Average PE Ratio
+  - Market Capitalization
+
+
+|            | Year End Data |         |         |         |         |
+|------------|---------------|---------|---------|---------|---------|
+|            |      "2016-2020"     |         |         |         |         |
+|            | Price         | Net Income | PE Ratio | CUSIP   | Industry PE Ratio | Market Cap |
+| Stock      |               |           |          |         |                    |            |
+
 
 **Fast Growers**: 
-| Criteria                                 | Description                                                                         |
-|------------------------------------------|-------------------------------------------------------------------------------------|
-| Years of Data                            | 5 years                                                                             |
-| Net Income Growth                       | Proper net income growth rates: 20% - 25%; Avoid less than 10% or over 25%           |
-| PE Ratio Alignment with Growth Rate     | Ensure the PE ratio of the stock is near the growth rate of the company              |
+- Key Information:
+  - Stock Price
+  - Net Income 
+  - Net Income Growth Rate 
+  
+|          | Year End Date |          |          |
+|----------|---------------|----------|----------|
+|         |      "2016-2020"     |         |              
+|          | Price         | Net Income | Net Income Growth |
+| Stock    |               |          |          |
+
 
 
 1. Slow growers

@@ -1,4 +1,4 @@
-# RESEARCH PROPOSAL: Performance of Wilkshire 5000 Firms Screened Through Peter Lynch's Methodology vs. Broader Market
+# RESEARCH PROPOSAL: Performance of Wilshire 5000 Firms Screened Through Peter Lynch's Methodology vs. Broader Market
 
 ## By Ryan Chang
 
@@ -20,7 +20,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
    - Finalization of screening 
    - Information regarding screening findings
 4. **Final Analysis** 
-   - Compairson to Wilshire return
+   - Comparison to Wilshire return
    - Breakdown of comparison by screening criterion
    - Final conclusion and analysis
  
@@ -59,14 +59,14 @@ To accomplish this, The Report File will Consist of 4 Sections:
   - Net Income
   - Net Income Growth
   - PE Ratio
-  - CUSIP
-  - Inustry Average PE Ratio
+  - GSECTOR
+  - Industry Average PE Ratio
   - Market Capitalization
 
 |            | Year End Data |          |         |         |         |         |
 |------------|---------------|----------|---------|---------|---------|---------|
 |            | "2015-2019"   |          |         |         |         |         |
-|            | Price         | Net Income | Net Income Growth | PE Ratio | CUSIP   | Industry PE Ratio | Market Cap |
+|            | Price         | Net Income | Net Income Growth | PE Ratio | GSECTOR   | Industry PE Ratio | Market Cap |
 | Stock      |               |           |                   |          |         |                    |            |
 
 **Fast Growers**: 
@@ -110,7 +110,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
 
 **Step 2: Pull Necessary Data From Each Dataset**
 - Slow_Growers.csv
-- Stalworths.csv
+- Stalwarths.csv
 - Fast_Growers.csv
 - Wilshire_return.csv
 - Screened_return.csv

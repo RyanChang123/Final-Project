@@ -14,7 +14,7 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
   - **Source:**  [Wilshire 5000 List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)
 - **Stock Data**: Key Stock Information.
   - **Source:** Yahoo Finance
-- **Wilshire 5000**: Performance from 2020-Present.
+- **Wilshire 5000**: Performance from 2021-Present.
   - **Source:** Yahoo Finance
 
 ### Final Datasets
@@ -22,34 +22,36 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
 **Slow Growers**: 
 
 - Key Information:
-  - Year End Data for 5 years (2016-2020)
+  - Year End Data for 5 years (2015-2019)
   - Were Dividends Paid?
   - Dividends Growth Year over Year
   - Dividends Paid as Percentage of Net Income
 
 |         | Year End Data |           |       |
 |---------|--------------|-----------|-------|
-|         |      "2016-2020"     |         |         |                 
+|         |      "2015-2019"     |         |         |                 
 |         | Dividend Amount | Net Income | Dividend Growth |
 | Stock   |              |           |       |
 
 
 **Stalwarts**: 
 - Key Information:
-  - Year End Data for 5 years (2016-2020)
+  - Year End Data for 5 years (2015-2019)
   - Stock Price 
   - Net Income
+  - Net Income Growth
   - PE Ratio
   - CUSIP
   - Inustry Average PE Ratio
   - Market Capitalization
 
 
-|            | Year End Data |         |         |         |         |
-|------------|---------------|---------|---------|---------|---------|
-|            |      "2016-2020"     |         |         |         |         |
-|            | Price         | Net Income | PE Ratio | CUSIP   | Industry PE Ratio | Market Cap |
-| Stock      |               |           |          |         |                    |            |
+|            | Year End Data |          |         |         |         |         |
+|------------|---------------|----------|---------|---------|---------|---------|
+|            | "2015-2019"   |          |         |         |         |         |
+|            | Price         | Net Income | Net Income Growth | PE Ratio | CUSIP   | Industry PE Ratio | Market Cap |
+| Stock      |               |           |                   |          |         |                    |            |
+
 
 
 **Fast Growers**: 
@@ -60,78 +62,68 @@ In this research I am exploring how do firms screened through Peter Lynch's Slow
   
 |          | Year End Date |          |          |
 |----------|---------------|----------|----------|
-|         |      "2016-2020"     |         |              
+|         |      "2015-2019"     |         |              
 |          | Price         | Net Income | Net Income Growth |
 | Stock    |               |          |          |
 
+**Screened Returns Comparison**: 
+- Key Information:
+  - Stock Price
+  - Market Capitalization
+  
+|          | Year End Date | Market Cap |
+|----------|---------------|------------|
+|          |    "2020-2023"  |            |
+|          | Price         | Market Cap |
+| Stock    |               |            |
+
+**Wilshire 5000 returns**: 
+- Key Information:
+  - Stock Price
+ 
+|          | Year End Date |
+|----------|---------------|
+|         |      "2020-2023"     |          
+|          | Price         |
+| Stock    |               |
 
 
-1. Slow growers
-    - 5 years of data for slow-growing companies 
-    - Need to know if the company has paid out dividends for every year?
-    - Need to know if the company has consistently increased dividends?
-    - Need to know what percentage of net income is paid out (provides cushion of company) lower is better
+
+#### Data Transformation
+
+**Step 1: Prepare and Clean Data**
+- Clean the data: Ensure critical columns have no missing values. Remove firms with missing critical values. 
+
+**Step 2: Pull Necessary Data From Each Dataset**
+- Slow Growers
+- Stalworths 
+- Fast Growers 
+
+**Step 3: Screen Datasets for Peter Lynch Criterion**
+- Slow Growers
+    - Paid Dividends Every Year?
+    - Have Dividends Paid Decreased In Any Year?
+    - Dividends Paid Less than 40% of Net Income?
 2. Stalwarts 
-    - 5 years of data 
-    - Need to know the PE ratio of the company compared to the average PE ratio of the industry by year
-    - Need to make sure long-term net income has the same growth rate or similar
-    - These are large companies need to have a large market cap (most likely mega or large cap) (FINRA)
+    - Company PE Ratio Lower Than Industy Average?
+    - Has There Been Consistent Net Income Growth?
+    - Market Cap IS Large-Cap or Mega-Cap
         - mega-cap: market value of $200 billion or more
         - large-cap: market value between $10 billion and $200 billion;
         - mid-cap: market value between $2 billion and $10 billion;
         - small-cap: market value between $250 million and $2 billion; and
         - micro-cap: market value of less than $250 million.
 3. Fast Growers 
-    - 5 years of data 
-    - Need proper net income growth 
-       - not 10% - 20%
-       - ideal 20% - 25% 
-       - no over 25% 
-    - PE ratio of stock needs to be near the growth rate 
+    - Is Net Income Growth Between 20% - 25%?
+    - Is The PE Ratio Between 25 - 30?
 
-What does the final dataset need to look like (mostly dictated by the question and the availability of data):
-    - the final dataset will consist of 5 years of data from all the Wilshire 5000 firms 
-    
-- For slow growers 
-    - Company Name, Ticker, annual dividends over 5 years, Net income over 5 years 
-- For stalwarts 
-    - Company name, ticker, GICS, Price over 5 years, Current PE, Average GICS PE, Market Cap, Net income for 5 years 
-- For Fast Growers
-    - Company name, ticker, Net income, Average annual NI growth, Price
+**Step 4: Create a List of Peter Lynch Companies**
+- Create a listed of screened Slow Growers, Stalworts, and Fast Growers.
+- Create a dataset which returns their market cap and stock price between 2020-2023.
+- Simulate the return of the Peter lynch Screened Companies over that time. 
 
-What is the sample period?
-- 5 years of data 
-
-What are the sample conditions? (Years, restrictions you anticipate (e.g. exclude or require some industries)
-- Need to take into consideration the implications from COVID (maybe take data from 2010 - 2015
-
-What variables are absolutely necessary and what would you like to have if possible?
-- Company Name, Ticker, annual dividends over 5 years, net income over 5 years, GICS, Price over 5 years, Market Cap
-
-What data do we have and what data do we need?
-- Have a list of Wilshire 5000 securities 
-- We need all the information listed in the final dataset 
-
-How will we collect more data?
-- We will use Yahoo Finance to load the data 
-
-What are the raw inputs and how will you store them (the folder structure(s) for each input type)?
-- Raw inputs will be in the inputs folder 
-
-Speculate at a high level (not specific code!) about how you’ll transform the raw data into the final form.
-Acknowledgment: We are effectively answering questions 1.1-1.3 and 2.1-2.3 from DS100 in this proposal.
-
-- Need to clean the data and remove all blanks 
-- Need to ensure that all the data points are valid and continuous 
-- Need to organize data into input folders 
-    - one for slow growers
-    - one for stalwarts 
-    - one for fast growers 
-- Need to create an input folder that has all of that information 
-- Need to create each of the variables needed based on the input data 
-- Finally, need to output a CSV for each highlighting why the companies might fall into each of the categories
-
-
+**Step 5: Create a List of Wilshire 5000 Returns**
+-- Create a dataset which returns their market cap and stock price between 2020-2023.
 
 
 

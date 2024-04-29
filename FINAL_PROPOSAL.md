@@ -4,7 +4,7 @@
 
 ### Research Question
 
-In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilkshire 5000.
+In this research I am exploring how do firms screened through Peter Lynch's Slow Grower, Stalwart, and Faster Grower methodology compare to the broader market. My hypothesis is that the screened companies will have historically outperform the Wilshire 5000.
 
 #### Report File
 
@@ -28,7 +28,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
 
 - **One Up On Wall Street**: Peter Lynch's book.
   - **Source:** [One Up on Wall Street](https://yourknowledgedigest.files.wordpress.com/2020/04/one-up-on-wall-street.pdf)
-- **Wilshire 5000 Stock List**: Wilkshire 5000 stock list.
+- **Wilshire 5000 Stock List**: Wilshire 5000 stock list.
   - **Source:**  [Wilshire 5000 List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)
 - **Stock Data**: Key Stock Information.
   - **Source:** Yahoo Finance
@@ -110,7 +110,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
 
 **Step 2: Pull Necessary Data From Each Dataset**
 - Slow_Growers.csv
-- Stalwarths.csv
+- Stalwarts.csv
 - Fast_Growers.csv
 - Wilshire_return.csv
 - Screened_return.csv
@@ -121,7 +121,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
     - Have Dividends Paid Decreased In Any Year?
     - Dividends Paid Less than 40% of Net Income?
 - Stalwarts 
-    - Company PE Ratio Lower Than Industy Average?
+    - Company PE Ratio Lower Than Industry Average?
     - Has There Been Consistent Net Income Growth?
     - Market Cap IS Large-Cap or Mega-Cap
         - mega-cap: market value of $200 billion or more
@@ -134,7 +134,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
     - Is The PE Ratio Between 25 - 30?
 
 **Step 4: Create a List of Peter Lynch Companies**
-- Create a listed of screened Slow Growers, Stalworts, and Fast Growers.
+- Create a listed of screened Slow Growers, Stalwarts, and Fast Growers.
 - Create a dataset which returns their market cap and stock price between 2020-2023.
 - Simulate the return of the Peter lynch Screened Companies over that time. 
 

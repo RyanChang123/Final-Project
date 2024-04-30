@@ -529,7 +529,7 @@ CNMD,Healthcare
 CNNE,Consumer Cyclical
 CNO,Financial Services
 CNOB,Financial Services
-CNP,
+CNP,Utilities
 CNS,Financial Services
 CNSL,Communication Services
 CNTY,Consumer Cyclical
@@ -551,7 +551,6 @@ COO,Healthcare
 COOP,Financial Services
 COP,Energy
 COR,Healthcare
-CORR,Real Estate
 CORT,Healthcare
 COST,Consumer Defensive
 COTY,Consumer Defensive
@@ -2275,7 +2274,6 @@ TMDX,Healthcare
 TMHC,Consumer Cyclical
 TMO,Healthcare
 TMP,Financial Services
-TMST,Basic Materials
 TMUS,Communication Services
 TNC,Industrials
 TNDM,Healthcare

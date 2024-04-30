@@ -6,11 +6,12 @@
     import numpy as np
     import matplotlib.pyplot as plt
     import plotly.express as px
-    
-# 1. Finish Reading the README.md
-# 2. Read the FINAL PROPOSAL
-# 3. Load the Builder.ipynb
-# 4. Read the Concluding thoughts 
+
+# Review Parts in this Order
+    1. Finish Reading the README.md
+    2. Read the FINAL PROPOSAL
+    3. Load the Builder.ipynb
+    4. Read the Concluding thoughts 
 
 # Key information:
     - Analysis is based off year 2020 - 2023

@@ -1,0 +1,2426 @@
+Ticker,2023_PE,Gsector,Avg_PE_Gsector
+A,22.831148,Healthcare,
+ABBV,13.412252,Healthcare,
+ABEO,-2.0078948,Healthcare,
+ABIO,-0.40292045,Healthcare,
+ABT,20.723736,Healthcare,
+ACAD,13.547619,Healthcare,
+ACHC,18.382133,Healthcare,
+ACHV,-4.894445,Healthcare,
+ACOR,-0.6885417,Healthcare,
+ACRS,-1.4878049,Healthcare,
+ADMA,13.21,Healthcare,
+ADUS,17.815588,Healthcare,
+ADVM,-1.9060775,Healthcare,
+ADXS,-0.9109589,Healthcare,
+AEMD,-0.5209125,Healthcare,
+AGEN,-0.9163439,Healthcare,
+AGIO,-5.6235147,Healthcare,
+AGRX,0.3890909,Healthcare,
+AKBA,-3.953125,Healthcare,
+ALDX,-13.862069,Healthcare,
+ALEC,-2.9774013,Healthcare,
+ALGN,26.912605,Healthcare,
+ALIM,18.4625,Healthcare,
+ALKS,9.562016,Healthcare,
+ALLK,-1.5071428,Healthcare,
+ALLO,-1.803125,Healthcare,
+ALNY,-83.49716,Healthcare,
+ALPN,-34.208996,Healthcare,
+ALT,-3.5783782,Healthcare,
+AMED,18.309381,Healthcare,
+AMGN,13.9765415,Healthcare,
+AMN,13.0711155,Healthcare,
+AMPE,-2.4444444,Healthcare,
+AMPH,9.870326,Healthcare,
+AMRX,8.94697,Healthcare,
+AMS,7.5707145,Healthcare,
+ANAB,-3.6946309,Healthcare,
+ANGO,-11.632652,Healthcare,
+ANIK,63.268295,Healthcare,
+ANIP,13.12974,Healthcare,
+ANIX,-6.722223,Healthcare,
+APDN,-0.35188678,Healthcare,
+APLS,37.851852,Healthcare,
+APVO,-0.0905948,Healthcare,
+APYX,-1.9642857,Healthcare,
+ARAY,16.653847,Healthcare,
+ARDX,167.875,Healthcare,
+ARVN,-5.7217236,Healthcare,
+ARWR,-8.62406,Healthcare,
+ASMB,-0.7956853,Healthcare,
+ASRT,inf,Healthcare,
+ATEC,-16.592106,Healthcare,
+ATNM,-71.454544,Healthcare,
+ATOS,-5.133333,Healthcare,
+ATR,25.03793,Healthcare,
+ATRA,-1.5652174,Healthcare,
+ATRC,-41.894737,Healthcare,
+AVGR,-0.43333334,Healthcare,
+AVNS,9.821622,Healthcare,
+AVRO,-3.6515152,Healthcare,
+AVXL,-5.609375,Healthcare,
+AXDX,-0.4573196,Healthcare,
+AXGN,38.235294,Healthcare,
+AXNX,79.58321,Healthcare,
+AXSM,60.569103,Healthcare,
+BAX,12.512384,Healthcare,
+BCLI,-1.9953573,Healthcare,
+BCRX,-11.885714,Healthcare,
+BDX,16.252264,Healthcare,
+BEAT,-3.3728814,Healthcare,
+BHVN,-6.715266,Healthcare,
+BIIB,12.504608,Healthcare,
+BIO,22.78125,Healthcare,
+BIOL,-1.3636364,Healthcare,
+BKD,-12.172414,Healthcare,
+BLCM,-0.07786459,Healthcare,
+BLFS,-39.177776,Healthcare,
+BLUE,-0.55043477,Healthcare,
+BMRN,30.731058,Healthcare,
+BMY,6.8018274,Healthcare,
+BPMC,-33.11511,Healthcare,
+BPTH,-0.14867462,Healthcare,
+BRKR,23.572271,Healthcare,
+BSGM,-1.0073078,Healthcare,
+BSX,27.367424,Healthcare,
+CAH,13.036802,Healthcare,
+CALA,-0.014814815,Healthcare,
+CAPR,52.800003,Healthcare,
+CARA,-0.725,Healthcare,
+CASI,6.882353,Healthcare,
+CBAY,-30.933334,Healthcare,
+CCRN,14.554621,Healthcare,
+CDMO,-82.44444,Healthcare,
+CDNA,-17.978262,Healthcare,
+CDTX,-9.127819,Healthcare,
+CDXC,72.6,Healthcare,
+CDXS,-4.470588,Healthcare,
+CELC,-4.7109146,Healthcare,
+CERS,-28.583334,Healthcare,
+CHE,22.354471,Healthcare,
+CHRS,51.625004,Healthcare,
+CI,11.134873,Healthcare,
+CLDX,-11.919095,Healthcare,
+CLRB,-1.0883392,Healthcare,
+CMRX,-0.9782292,Healthcare,
+CNC,9.625,Healthcare,
+CNMD,12.236364,Healthcare,
+COLL,10.3978195,Healthcare,
+COO,22.56962,Healthcare,
+COR,16.324915,Healthcare,
+CORT,18.453127,Healthcare,
+CPIX,12.0,Healthcare,
+CPRX,10.598592,Healthcare,
+CPSI,4.994565,Healthcare,
+CRBP,-7.017578,Healthcare,
+CRIS,-2.8437502,Healthcare,
+CRL,18.509253,Healthcare,
+CRMD,-58.999996,Healthcare,
+CRNX,-12.395481,Healthcare,
+CRVS,-2.025974,Healthcare,
+CTLT,36.940792,Healthcare,
+CTMX,-3.9166667,Healthcare,
+CTSO,-4.0165,Healthcare,
+CUE,-1.43,Healthcare,
+CUTR,-0.69721216,Healthcare,
+CVM,-2.908163,Healthcare,
+CVS,7.392779,Healthcare,
+CWBR,-0.21938775,Healthcare,
+CYCC,-0.09372999,Healthcare,
+CYH,14.152174,Healthcare,
+CYTK,-18.613983,Healthcare,
+DARE,-4.325,Healthcare,
+DCPH,-16.0,Healthcare,
+DGX,14.656811,Healthcare,
+DHR,30.33827,Healthcare,
+DNLI,-5.945946,Healthcare,
+DRRX,-0.74650407,Healthcare,
+DVA,13.775794,Healthcare,
+DVAX,22.68,Healthcare,
+DXCM,56.30531,Healthcare,
+EBS,0.5095368,Healthcare,
+EDIT,-1.9324818,Healthcare,
+EGRX,1.1508621,Healthcare,
+EHC,18.31718,Healthcare,
+EIGR,-0.4791667,Healthcare,
+EKSO,-5.541667,Healthcare,
+ELAN,12.702831,Healthcare,
+ELMD,26.766665,Healthcare,
+ELOX,-1.4225353,Healthcare,
+ENSG,19.997458,Healthcare,
+ENTA,-2.9036403,Healthcare,
+ENZ,-2.6794872,Healthcare,
+EOLS,73.0,Healthcare,
+ESPR,39.899998,Healthcare,
+EVFM,-0.02690909,Healthcare,
+EVH,16.654762,Healthcare,
+EVOK,15.400001,Healthcare,
+EW,27.544874,Healthcare,
+EXAS,989.4667,Healthcare,
+EXEL,16.020407,Healthcare,
+EYPT,-6.2253523,Healthcare,
+FATE,-2.2541437,Healthcare,
+FBIO,-0.36737183,Healthcare,
+FGEN,-2.3977273,Healthcare,
+FIXX,-1.3352858,Healthcare,
+FOLD,26.038462,Healthcare,
+GALT,-2.1949685,Healthcare,
+GERN,-26.540667,Healthcare,
+GH,-6.219931,Healthcare,
+GILD,9.677828,Healthcare,
+GKOS,-76.33662,Healthcare,
+GLYC,-3.6666667,Healthcare,
+GMED,15.31155,Healthcare,
+GOSS,-0.9671429,Healthcare,
+GRTS,-0.83343756,Healthcare,
+GTHX,-9.907895,Healthcare,
+HAE,20.751137,Healthcare,
+HALO,8.512061,Healthcare,
+HBIO,12.824139,Healthcare,
+HCA,13.282111,Healthcare,
+HCSG,12.522989,Healthcare,
+HOLX,17.259682,Healthcare,
+HQY,21.93113,Healthcare,
+HROW,17.932203,Healthcare,
+HRTX,-8.464285,Healthcare,
+HSIC,12.517761,Healthcare,
+HSTM,42.991665,Healthcare,
+HUM,15.251622,Healthcare,
+IART,7.958449,Healthcare,
+IBIO,-0.71837497,Healthcare,
+ICAD,-8.108333,Healthcare,
+ICCC,-46.363636,Healthcare,
+ICUI,14.246312,Healthcare,
+IDXG,-9.266666,Healthcare,
+IDXX,39.8487,Healthcare,
+ILMN,51.053276,Healthcare,
+INCY,9.873346,Healthcare,
+INFU,18.875,Healthcare,
+INGN,-3.4387753,Healthcare,
+INO,-3.3849556,Healthcare,
+INSM,-6.4424086,Healthcare,
+INSP,392.1129,Healthcare,
+INVA,15.647959,Healthcare,
+IONS,-13.227129,Healthcare,
+IOVA,-17.535212,Healthcare,
+IQV,18.716333,Healthcare,
+IRIX,-10.246207,Healthcare,
+IRMD,24.040936,Healthcare,
+IRTC,-63.868416,Healthcare,
+IRWD,9.746914,Healthcare,
+ISRG,50.639458,Healthcare,
+ITCI,67.22222,Healthcare,
+ITGR,18.760365,Healthcare,
+JAGX,-0.45807692,Healthcare,
+JAZZ,5.3083334,Healthcare,
+JNJ,14.161411,Healthcare,
+JYNT,31.564104,Healthcare,
+KALA,-0.59478265,Healthcare,
+KALV,-4.669456,Healthcare,
+KIDS,-27.90534,Healthcare,
+KNSA,33.70909,Healthcare,
+KOD,-0.7477477,Healthcare,
+KPTI,-1.039604,Healthcare,
+KRYS,37.01659,Healthcare,
+KURA,-8.260162,Healthcare,
+KZR,-0.66888,Healthcare,
+LGND,12.444661,Healthcare,
+LH,12.703524,Healthcare,
+LIFE,-1.6631579,Healthcare,
+LIVN,16.924698,Healthcare,
+LLY,43.47959,Healthcare,
+LMAT,35.552013,Healthcare,
+LNTH,9.985007,Healthcare,
+LPCN,-8.403509,Healthcare,
+LQDA,-37.941174,Healthcare,
+LXRX,-2.340909,Healthcare,
+MACK,-8.27809,Healthcare,
+MASI,34.734013,Healthcare,
+MBIO,-0.048075397,Healthcare,
+MBOT,-1.4609375,Healthcare,
+MCK,17.289585,Healthcare,
+MCRB,-1.13975,Healthcare,
+MD,6.9069767,Healthcare,
+MDGL,-14.068414,Healthcare,
+MDRX,10.064936,Healthcare,
+MDT,14.731194,Healthcare,
+MEDP,30.466768,Healthcare,
+MEIP,-0.5264957,Healthcare,
+MGNX,-8.155556,Healthcare,
+MLSS,-12.280001,Healthcare,
+MMSI,20.39011,Healthcare,
+MNKD,16.84,Healthcare,
+MNOV,-5.45125,Healthcare,
+MOH,12.845489,Healthcare,
+MOTS,-0.0041628703,Healthcare,
+MRK,13.19332,Healthcare,
+MRKR,-1.2588235,Healthcare,
+MRNS,-1.0891473,Healthcare,
+MRSN,-4.3219175,Healthcare,
+MTD,28.025417,Healthcare,
+MTEM,-0.43249363,Healthcare,
+MTNB,-1.7318182,Healthcare,
+MYGN,86.565216,Healthcare,
+NAVB,-0.21875,Healthcare,
+NBIX,21.741812,Healthcare,
+NBY,3.935,Healthcare,
+NEO,100.75,Healthcare,
+NEOG,22.345453,Healthcare,
+NERV,-0.5176211,Healthcare,
+NHC,210.67441,Healthcare,
+NKTR,-2.1126761,Healthcare,
+NNVC,-1.027027,Healthcare,
+NRC,29.366379,Healthcare,
+NSTG,-0.06343374,Healthcare,
+NTLA,-3.9799638,Healthcare,
+NTRA,-79.38235,Healthcare,
+NURO,11.749999,Healthcare,
+NVAX,-108.25,Healthcare,
+NVRO,-5.04054,Healthcare,
+OCUL,-5.5170455,Healthcare,
+OCX,-1.2727273,Healthcare,
+OFIX,inf,Healthcare,
+OGEN,-0.098148145,Healthcare,
+OMCL,18.975525,Healthcare,
+OMER,-1.7402235,Healthcare,
+OMI,12.8375635,Healthcare,
+ONTX,-1.1573255,Healthcare,
+ONVO,-0.7486131,Healthcare,
+OPGN,-1.6896553,Healthcare,
+OPK,-4.769231,Healthcare,
+OPRX,17.23729,Healthcare,
+OPTN,-9.113334,Healthcare,
+ORGO,40.333336,Healthcare,
+OSUR,-22.270832,Healthcare,
+PACB,-2.0243902,Healthcare,
+PAHC,12.869919,Healthcare,
+PBH,15.388768,Healthcare,
+PBYI,28.82353,Healthcare,
+PCRX,7.233146,Healthcare,
+PDCO,10.408536,Healthcare,
+PDEX,13.623188,Healthcare,
+PEN,52.007816,Healthcare,
+PETQ,10.347134,Healthcare,
+PETS,-400.50003,Healthcare,
+PFE,10.068627,Healthcare,
+PHIO,-0.19646068,Healthcare,
+PINC,8.985043,Healthcare,
+PLSE,-8.05,Healthcare,
+PODD,45.42328,Healthcare,
+PRGO,11.115646,Healthcare,
+PRPH,9.488958,Healthcare,
+PRTA,-5.085956,Healthcare,
+PTCT,-7.480279,Healthcare,
+PTGX,-31.08642,Healthcare,
+PTN,-1.9062501,Healthcare,
+PULM,-0.44666666,Healthcare,
+QDEL,10.900553,Healthcare,
+QTRX,-17.88764,Healthcare,
+RARE,-8.7365265,Healthcare,
+RCKT,-11.85326,Healthcare,
+RCM,45.907406,Healthcare,
+RCUS,-3.6952384,Healthcare,
+RDNT,63.991844,Healthcare,
+REGN,18.780693,Healthcare,
+REPL,-2.148515,Healthcare,
+RGEN,81.9439,Healthcare,
+RGLS,-4.0665574,Healthcare,
+RGNX,-7.2511415,Healthcare,
+RIGL,11.888889,Healthcare,
+RMD,24.794184,Healthcare,
+RMTI,24.500002,Healthcare,
+RVNC,-3.523585,Healthcare,
+RYTM,-19.396137,Healthcare,
+SAGE,-2.8600001,Healthcare,
+SCYX,172.0,Healthcare,
+SEM,13.416269,Healthcare,
+SENS,-3.8783336,Healthcare,
+SGMO,-1.8770369,Healthcare,
+SGRY,19.440945,Healthcare,
+SIBN,-19.078947,Healthcare,
+SIGA,7.7818184,Healthcare,
+SILK,-14.92877,Healthcare,
+SINT,-4.9300003,Healthcare,
+SLDB,-3.2563179,Healthcare,
+SLNO,-61.36,Healthcare,
+SLP,56.037502,Healthcare,
+SLS,-1.3598925,Healthcare,
+SNDX,-7.1677737,Healthcare,
+SNOA,-0.36644447,Healthcare,
+SPOK,14.270642,Healthcare,
+SPRO,-1.5448421,Healthcare,
+SRDX,-87.96552,Healthcare,
+SRPT,12.148815,Healthcare,
+SRRK,-7.756477,Healthcare,
+SRTS,17.825,Healthcare,
+SSKN,-4.5,Healthcare,
+STAA,48.494793,Healthcare,
+STE,21.785715,Healthcare,
+STIM,-5.40625,Healthcare,
+STRM,-2.8772728,Healthcare,
+SUPN,15.5948715,Healthcare,
+SVRA,-13.764706,Healthcare,
+SWAV,53.430424,Healthcare,
+SYBX,-17.8,Healthcare,
+SYK,25.551659,Healthcare,
+SYRS,-1.5988024,Healthcare,
+TBIO,-0.62086207,Healthcare,
+TBPH,-21.949999,Healthcare,
+TCMD,15.112904,Healthcare,
+TCON,-0.568105,Healthcare,
+TDOC,-21.691803,Healthcare,
+TECH,31.629904,Healthcare,
+TENX,-1.1134986,Healthcare,
+TFX,13.528178,Healthcare,
+TGTX,25.273586,Healthcare,
+THC,15.424328,Healthcare,
+TMDX,297.875,Healthcare,
+TMO,23.570547,Healthcare,
+TNDM,-34.43119,Healthcare,
+TNXP,-0.25428572,Healthcare,
+TRVN,-0.3037037,Healthcare,
+TTNP,-7.252747,Healthcare,
+TTOO,-0.9157704,Healthcare,
+TWST,-11.949813,Healthcare,
+TXMD,5.457143,Healthcare,
+UFPT,32.77105,Healthcare,
+UHS,11.273,Healthcare,
+UNH,15.589183,Healthcare,
+USPH,32.747574,Healthcare,
+UTHR,9.423092,Healthcare,
+VAPO,-0.43402776,Healthcare,
+VBIV,-1.0782353,Healthcare,
+VCEL,94.48979,Healthcare,
+VCYT,inf,Healthcare,
+VEEV,29.592453,Healthcare,
+VERU,-4.567,Healthcare,
+VKTX,-48.61613,Healthcare,
+VNDA,-14.484849,Healthcare,
+VNRX,-2.875,Healthcare,
+VREX,12.953125,Healthcare,
+VRTX,23.329802,Healthcare,
+VSTM,-3.624074,Healthcare,
+VTVT,-84.283325,Healthcare,
+VXRT,-1.8207693,Healthcare,
+VYGR,-4.4508667,Healthcare,
+WAT,23.850077,Healthcare,
+WBA,6.046075,Healthcare,
+WST,40.365597,Healthcare,
+WVE,-4.5186915,Healthcare,
+XBIT,58.538464,Healthcare,
+XERS,-8.068182,Healthcare,
+XNCR,-7.1088433,Healthcare,
+XOMA,-15.588235,Healthcare,
+XRAY,12.454356,Healthcare,
+XTNT,inf,Healthcare,
+YMAB,-54.17857,Healthcare,
+ZBH,13.902073,Healthcare,
+ZTS,25.005444,Healthcare,
+XFOR,-2.3625531,Healthcare,
+ZYXI,12.655557,Healthcare,
+AA,15.792951,Basic Materials,12.55348140402062
+ALB,13.532022,Basic Materials,12.55348140402062
+ALTM,13.854839,Basic Materials,12.55348140402062
+APD,17.07297,Basic Materials,12.55348140402062
+ARCH,7.094066,Basic Materials,12.55348140402062
+ASH,16.930824,Basic Materials,12.55348140402062
+ASIX,6.22476,Basic Materials,12.55348140402062
+AUMN,-1.2107317,Basic Materials,12.55348140402062
+AVD,11.42,Basic Materials,12.55348140402062
+AVTR,19.764227,Basic Materials,12.55348140402062
+AXTA,14.751163,Basic Materials,12.55348140402062
+BCC,11.508662,Basic Materials,12.55348140402062
+BCPC,29.096436,Basic Materials,12.55348140402062
+CBT,12.216074,Basic Materials,12.55348140402062
+CC,7.2877984,Basic Materials,12.55348140402062
+CDE,16.642857,Basic Materials,12.55348140402062
+CE,11.242641,Basic Materials,12.55348140402062
+CENX,18.648937,Basic Materials,12.55348140402062
+CF,13.326633,Basic Materials,12.55348140402062
+CLF,10.888199,Basic Materials,12.55348140402062
+CLW,9.635612,Basic Materials,12.55348140402062
+CMC,10.651575,Basic Materials,12.55348140402062
+CMP,17.876713,Basic Materials,12.55348140402062
+CMT,8.383929,Basic Materials,12.55348140402062
+DD,17.64748,Basic Materials,12.55348140402062
+DOW,13.441859,Basic Materials,12.55348140402062
+ECL,31.470507,Basic Materials,12.55348140402062
+EMN,10.6552105,Basic Materials,12.55348140402062
+EXP,16.008696,Basic Materials,12.55348140402062
+FCX,24.82683,Basic Materials,12.55348140402062
+FF,6.825,Basic Materials,12.55348140402062
+FMC,11.873016,Basic Materials,12.55348140402062
+FUL,15.235294,Basic Materials,12.55348140402062
+GEVO,-1.7076924,Basic Materials,12.55348140402062
+GLT,4.279412,Basic Materials,12.55348140402062
+GORO,-5.001,Basic Materials,12.55348140402062
+GPRE,10.110578,Basic Materials,12.55348140402062
+HCC,12.454383,Basic Materials,12.55348140402062
+HDSN,8.087999,Basic Materials,12.55348140402062
+HL,30.0625,Basic Materials,12.55348140402062
+HUN,15.046296,Basic Materials,12.55348140402062
+HWKN,20.972677,Basic Materials,12.55348140402062
+IFF,20.51079,Basic Materials,12.55348140402062
+IOSP,16.248985,Basic Materials,12.55348140402062
+IPI,-43.0,Basic Materials,12.55348140402062
+KALU,12.398406,Basic Materials,12.55348140402062
+KOP,10.089354,Basic Materials,12.55348140402062
+KRO,15.589458,Basic Materials,12.55348140402062
+KWR,18.463726,Basic Materials,12.55348140402062
+LIN,25.780046,Basic Materials,12.55348140402062
+LOOP,-20.142857,Basic Materials,12.55348140402062
+LXU,26.600002,Basic Materials,12.55348140402062
+LYB,10.311031,Basic Materials,12.55348140402062
+MERC,22.260868,Basic Materials,12.55348140402062
+MLM,24.65652,Basic Materials,12.55348140402062
+MOS,10.69178,Basic Materials,12.55348140402062
+MTRN,15.896119,Basic Materials,12.55348140402062
+MTX,10.78437,Basic Materials,12.55348140402062
+MUX,-28.97561,Basic Materials,12.55348140402062
+NEM,11.365278,Basic Materials,12.55348140402062
+NEU,20.502712,Basic Materials,12.55348140402062
+NGVT,9.903732,Basic Materials,12.55348140402062
+NTIC,17.505,Basic Materials,12.55348140402062
+NUE,14.413278,Basic Materials,12.55348140402062
+OLN,9.025467,Basic Materials,12.55348140402062
+PPG,13.978586,Basic Materials,12.55348140402062
+PZG,-2.244737,Basic Materials,12.55348140402062
+RDUS,19.965908,Basic Materials,12.55348140402062
+REX,15.074469,Basic Materials,12.55348140402062
+RGLD,22.458595,Basic Materials,12.55348140402062
+RPM,19.433214,Basic Materials,12.55348140402062
+RS,14.419643,Basic Materials,12.55348140402062
+RYAM,25.233334,Basic Materials,12.55348140402062
+SCL,18.834436,Basic Materials,12.55348140402062
+SHW,23.889805,Basic Materials,12.55348140402062
+SMG,17.095478,Basic Materials,12.55348140402062
+SSD,18.56462,Basic Materials,12.55348140402062
+STLD,13.093626,Basic Materials,12.55348140402062
+SUM,16.119432,Basic Materials,12.55348140402062
+SXC,14.640846,Basic Materials,12.55348140402062
+SXT,21.330381,Basic Materials,12.55348140402062
+TGLS,12.863425,Basic Materials,12.55348140402062
+TMST,10.625,Basic Materials,12.55348140402062
+TROX,11.7,Basic Materials,12.55348140402062
+TSE,-0.9413793,Basic Materials,12.55348140402062
+UAMY,0.40160716,Basic Materials,12.55348140402062
+UFPI,13.587188,Basic Materials,12.55348140402062
+USAP,10.802057,Basic Materials,12.55348140402062
+VMC,26.46317,Basic Materials,12.55348140402062
+WDFC,38.177475,Basic Materials,12.55348140402062
+WLK,15.963864,Basic Materials,12.55348140402062
+WTTR,8.29646,Basic Materials,12.55348140402062
+WWR,-0.88877547,Basic Materials,12.55348140402062
+X,9.840054,Basic Materials,12.55348140402062
+XPL,-13.868,Basic Materials,12.55348140402062
+YTEN,-0.282,Basic Materials,12.55348140402062
+ZEUS,17.259258,Basic Materials,12.55348140402062
+AAL,4.3128037,Industrials,
+AAN,10.308824,Industrials,
+AAON,32.440273,Industrials,
+ABM,12.160221,Industrials,
+ACA,19.823978,Industrials,
+ACCO,3.9,Industrials,
+ACM,18.636364,Industrials,
+ACTG,8.431034,Industrials,
+ADP,24.39717,Industrials,
+ADT,7.6588235,Industrials,
+AEIS,16.79376,Industrials,
+AGCO,9.164547,Industrials,
+AGX,13.869955,Industrials,
+AIR,16.781403,Industrials,
+AIRI,-12.423684,Industrials,
+AIT,18.0572,Industrials,
+AL,9.706215,Industrials,
+ALG,14.93988,Industrials,
+ALGT,6.77445,Industrials,
+ALK,7.0023847,Industrials,
+ALLE,16.342556,Industrials,
+AME,23.727638,Industrials,
+AMRC,10.363861,Industrials,
+AMSC,310.51752,Industrials,
+AOS,19.369265,Industrials,
+AP,9.347826,Industrials,
+APOG,12.747434,Industrials,
+APT,5.181035,Industrials,
+AQMS,-7.002857,Industrials,
+ARC,8.3125,Industrials,
+ARCB,8.917787,Industrials,
+ARLO,21.199484,Industrials,
+ARMK,16.431702,Industrials,
+ASPN,24.893938,Industrials,
+ASTC,-13.554707,Industrials,
+ASTE,13.651613,Industrials,
+ATI,20.016722,Industrials,
+ATKR,10.039722,Industrials,
+ATRO,14.556436,Industrials,
+ATSG,12.7255,Industrials,
+AVAV,47.199444,Industrials,
+AWI,18.272446,Industrials,
+AYI,15.2860155,Industrials,
+AZZ,12.932862,Industrials,
+B,16.399998,Industrials,
+BA,30.18,Industrials,
+BAH,24.977964,Industrials,
+BBCP,9.690142,Industrials,
+BBSI,14.297439,Industrials,
+BCO,9.14939,Industrials,
+BE,26.784525,Industrials,
+BECN,11.873054,Industrials,
+BGSF,9.255319,Industrials,
+BLD,18.03459,Industrials,
+BLDR,12.901243,Industrials,
+BRC,13.624715,Industrials,
+BV,14.297468,Industrials,
+BW,4.01,Industrials,
+BWEN,7.5862074,Industrials,
+BWXT,28.34503,Industrials,
+BXC,10.313489,Industrials,
+CAR,5.6961584,Industrials,
+CASS,14.177631,Industrials,
+CAT,15.039138,Industrials,
+CBZ,23.164516,Industrials,
+CHRW,18.021795,Industrials,
+CIX,20.881987,Industrials,
+CLH,21.646534,Industrials,
+CLIR,27.84,Industrials,
+CMCO,12.345132,Industrials,
+CMI,13.77574,Industrials,
+CODA,15.204546,Industrials,
+CPRT,34.179012,Industrials,
+CR,24.979204,Industrials,
+CRAI,22.377111,Industrials,
+CRS,18.029287,Industrials,
+CSL,17.895844,Industrials,
+CSWI,30.541191,Industrials,
+CSX,15.394496,Industrials,
+CTAS,40.60237,Industrials,
+CVU,6.9505134,Industrials,
+CVV,11.073171,Industrials,
+CW,23.347609,Industrials,
+CWST,73.95935,Industrials,
+CXW,17.38372,Industrials,
+CYRX,-16.575,Industrials,
+DAL,6.9437585,Industrials,
+DCI,20.096416,Industrials,
+DCO,14.819293,Industrials,
+DE,14.387696,Industrials,
+DLB,20.185896,Industrials,
+DLHC,11.252631,Industrials,
+DNOW,13.361203,Industrials,
+DOOR,13.356496,Industrials,
+DOV,18.319096,Industrials,
+DSKE,55.266663,Industrials,
+DXPE,12.454774,Industrials,
+DY,16.191742,Industrials,
+EAF,167.5,Industrials,
+EBF,14.141845,Industrials,
+EFX,23.631798,Industrials,
+EGLE,8.493894,Industrials,
+EME,21.10246,Industrials,
+EMR,18.709898,Industrials,
+ENG,7.2083335,Industrials,
+ENR,8.199141,Industrials,
+ENS,10.965394,Industrials,
+ERII,22.738462,Industrials,
+ESP,2380.0,Industrials,
+ETN,28.363518,Industrials,
+EXPD,22.227722,Industrials,
+EXPO,45.514706,Industrials,
+FAST,29.636364,Industrials,
+FCEL,-3.6148,Industrials,
+FCN,22.689075,Industrials,
+FDX,12.387687,Industrials,
+FELE,20.963984,Industrials,
+FIX,22.56874,Industrials,
+FLR,12.7665615,Industrials,
+FLS,16.488134,Industrials,
+FORR,11.111764,Industrials,
+FSS,24.847305,Industrials,
+FSTR,14.42515,Industrials,
+FTEK,inf,Industrials,
+FWRD,14.410596,Industrials,
+GATX,15.497494,Industrials,
+GBX,11.0526905,Industrials,
+GD,17.579046,Industrials,
+GE,36.108536,Industrials,
+GENC,5.451456,Industrials,
+GEO,10.937956,Industrials,
+GFF,12.202556,Industrials,
+GGG,24.790274,Industrials,
+GHM,72.20513,Industrials,
+GIFI,361.5,Industrials,
+GLDD,9.971015,Industrials,
+GMS,10.635844,Industrials,
+GNK,9.587053,Industrials,
+GNRC,17.420252,Industrials,
+GPN,9.455168,Industrials,
+GRC,17.531914,Industrials,
+GTES,10.709581,Industrials,
+GTLS,10.293043,Industrials,
+GVA,11.083832,Industrials,
+GWW,21.714735,Industrials,
+HA,-8.12987,Industrials,
+HAYN,12.70273,Industrials,
+HEES,8.385263,Industrials,
+HEI,49.499355,Industrials,
+HHS,7.09901,Industrials,
+HI,11.850243,Industrials,
+HII,14.681289,Industrials,
+HNI,12.7099695,Industrials,
+HON,17.89522,Industrials,
+HRI,9.335335,Industrials,
+HSII,9.042683,Industrials,
+HSON,8.545918,Industrials,
+HTLD,18.18868,Industrials,
+HUBB,22.393667,Industrials,
+HUBG,14.272243,Industrials,
+HURN,13.893175,Industrials,
+HXL,22.630136,Industrials,
+HY,6.6634936,Industrials,
+ICFI,18.854902,Industrials,
+IEX,24.707142,Industrials,
+IIIN,9.622754,Industrials,
+IPWR,-7.043479,Industrials,
+IR,26.525425,Industrials,
+ISSC,14.282609,Industrials,
+ITT,20.27565,Industrials,
+ITW,22.516895,Industrials,
+IVAC,-12.5,Industrials,
+JBHT,19.100945,Industrials,
+JBLU,-73.5,Industrials,
+JBT,15.830986,Industrials,
+JCI,16.019463,Industrials,
+JELD,10.097562,Industrials,
+JOB,3.277,Industrials,
+KAI,25.697447,Industrials,
+KAMN,45.99,Industrials,
+KBR,16.873077,Industrials,
+KE,9.981308,Industrials,
+KELYA,9.32,Industrials,
+KEX,16.640337,Industrials,
+KFRC,16.813513,Industrials,
+KFY,13.030044,Industrials,
+KMT,14.509091,Industrials,
+KNX,16.63849,Industrials,
+KTOS,34.584908,Industrials,
+LECO,21.324596,Industrials,
+LII,21.300713,Industrials,
+LIQT,-4.779661,Industrials,
+LMT,17.831865,Industrials,
+LNN,20.887993,Industrials,
+LPX,14.588933,Industrials,
+LSTR,22.177582,Industrials,
+LUV,13.191542,Industrials,
+MAN,11.561832,Industrials,
+MAS,15.255484,Industrials,
+MATW,9.9926195,Industrials,
+MATX,12.605814,Industrials,
+MDU,16.884354,Industrials,
+MESA,-10.214444,Industrials,
+MG,9.888888,Industrials,
+MGRC,17.812399,Industrials,
+MHH,8.777778,Industrials,
+MIDD,12.353411,Industrials,
+MLI,12.012631,Industrials,
+MMM,13.572652,Industrials,
+MMS,15.883629,Industrials,
+MNTX,7.681304,Industrials,
+MRCY,55.384617,Industrials,
+MRTN,16.623764,Industrials,
+MSA,22.136742,Industrials,
+MSM,14.355694,Industrials,
+MTRX,13.373529,Industrials,
+MTW,8.09804,Industrials,
+MTZ,21.572115,Industrials,
+MWA,20.19375,Industrials,
+MYRG,20.81941,Industrials,
+NDSN,23.411606,Industrials,
+NL,9.37647,Industrials,
+NNBR,-72.8,Industrials,
+NOC,17.56663,Industrials,
+NPK,95.02299,Industrials,
+NPO,18.001772,Industrials,
+NSC,16.62284,Industrials,
+NSP,26.189224,Industrials,
+NSSC,27.585752,Industrials,
+NVEE,16.635088,Industrials,
+NVT,21.035112,Industrials,
+NWPX,11.433692,Industrials,
+NX,12.468164,Industrials,
+OC,10.835764,Industrials,
+ODFL,25.286705,Industrials,
+OESX,-3.5700002,Industrials,
+OMEX,-3.7849462,Industrials,
+OPTT,-0.090852015,Industrials,
+ORN,13.345454,Industrials,
+OSK,9.818377,Industrials,
+PANL,6.5090904,Industrials,
+PAYX,23.977913,Industrials,
+PBI,33.346157,Industrials,
+PCAR,12.339327,Industrials,
+PESI,5.8686867,Industrials,
+PFMT,30.222221,Industrials,
+PGTI,14.090605,Industrials,
+PH,21.058355,Industrials,
+PKE,29.11765,Industrials,
+PKOH,6.1586905,Industrials,
+PLUG,-4.215893,Industrials,
+PNR,17.04184,Industrials,
+POOL,25.28384,Industrials,
+POWL,19.284424,Industrials,
+PPSI,6.8421054,Industrials,
+PRIM,14.442073,Industrials,
+PRLB,17.735796,Industrials,
+PTSI,11.862069,Industrials,
+PWR,27.542276,Industrials,
+QRHC,29.67647,Industrials,
+QUAD,3.7695832,Industrials,
+R,8.998518,Industrials,
+RAIL,9.263158,Industrials,
+RBC,26.025425,Industrials,
+RCMT,8.116883,Industrials,
+REVG,10.7219515,Industrials,
+REZI,11.0222225,Industrials,
+RFIL,24.583334,Industrials,
+RGR,13.294798,Industrials,
+RHI,17.393484,Industrials,
+RLGT,9.259259,Industrials,
+ROCK,13.731708,Industrials,
+ROK,20.834085,Industrials,
+RSG,28.835566,Industrials,
+RYI,8.848214,Industrials,
+SAIA,21.121975,Industrials,
+SAVE,-2.5892859,Industrials,
+SCS,11.303738,Industrials,
+SGRP,15.291667,Industrials,
+SITE,32.65258,Industrials,
+SKYW,9.524173,Industrials,
+SNA,13.418853,Industrials,
+SNDR,12.319526,Industrials,
+SP,12.992367,Industrials,
+SPR,16.324873,Industrials,
+SPXC,22.113737,Industrials,
+SRCL,16.375,Industrials,
+STRL,18.527338,Industrials,
+SWK,15.96875,Industrials,
+SXI,20.88823,Industrials,
+TBI,17.955172,Industrials,
+TDG,33.73194,Industrials,
+TEX,7.8478565,Industrials,
+TG,5.81982,Industrials,
+TGEN,-4.667333,Industrials,
+TGI,18.461622,Industrials,
+THR,16.734535,Industrials,
+TILE,11.771428,Industrials,
+TISI,-11.431035,Industrials,
+TITN,6.4956393,Industrials,
+TKR,13.540029,Industrials,
+TNC,16.986841,Industrials,
+TNET,15.286132,Industrials,
+TPC,11.586666,Industrials,
+TPIC,-74.4,Industrials,
+TRC,154.0,Industrials,
+TREX,35.75494,Industrials,
+TRN,13.412061,Industrials,
+TRNS,54.50495,Industrials,
+TRU,17.058577,Industrials,
+TTC,18.51055,Industrials,
+TTEK,28.513828,Industrials,
+TUSK,-17.263159,Industrials,
+TWI,6.266667,Industrials,
+TWIN,14.290351,Industrials,
+TXT,12.479591,Industrials,
+UAL,4.4116163,Industrials,
+UHAL,14.171111,Industrials,
+ULBI,17.507246,Industrials,
+ULH,9.12549,Industrials,
+UNF,19.939728,Industrials,
+UNP,18.697876,Industrials,
+UPS,15.036661,Industrials,
+URI,14.458716,Industrials,
+VMI,12.840406,Industrials,
+VRRM,17.643383,Industrials,
+VRSK,30.064207,Industrials,
+VSEC,15.692466,Industrials,
+VVI,18.160622,Industrials,
+WAB,20.298136,Industrials,
+WCC,9.509382,Industrials,
+WERN,12.160714,Industrials,
+WHLM,-6.985074,Industrials,
+WIRE,13.961916,Industrials,
+WLDN,14.22735,Industrials,
+WLFC,38.868,Industrials,
+WM,26.237886,Industrials,
+WMS,24.17037,Industrials,
+WNC,8.197917,Industrials,
+WOR,16.416431,Industrials,
+WSC,14.933853,Industrials,
+WSO,28.073795,Industrials,
+WTS,22.097023,Industrials,
+WWD,27.223421,Industrials,
+XPO,22.561974,Industrials,
+XYL,28.846321,Industrials,
+AAOI,11.614942,Technology,
+AAPL,26.205706,Technology,
+ACIW,20.582808,Technology,
+ACLS,12.489311,Technology,
+ACMR,14.322107,Technology,
+ACN,23.021343,Technology,
+ADBE,24.78534,Technology,
+ADI,26.858652,Technology,
+ADSK,23.87157,Technology,
+ADTN,11.684211,Technology,
+AEHR,23.367926,Technology,
+AGYS,66.338585,Technology,
+AIRG,16.164375,Technology,
+AKAM,13.800819,Technology,
+AKTS,-1.6764705,Technology,
+ALOT,49.857147,Technology,
+ALRM,29.588497,Technology,
+ALTR,58.014084,Technology,
+AMAT,22.93561,Technology,
+AMD,31.071566,Technology,
+AMKR,14.519315,Technology,
+AMSWA,27.026318,Technology,
+ANET,30.84244,Technology,
+ANSS,30.820728,Technology,
+AOSL,27.358025,Technology,
+APH,32.196335,Technology,
+APPF,45.470196,Technology,
+APPN,-295.0,Technology,
+APPS,4.269111,Technology,
+ARW,8.0494375,Technology,
+ASGN,16.26539,Technology,
+ASUR,10.229166,Technology,
+ASYS,24.25,Technology,
+ATEN,15.275862,Technology,
+AVGO,25.227316,Technology,
+AVNW,8.194712,Technology,
+AVT,8.385522,Technology,
+AWRE,-14.538462,Technology,
+AXTI,16.75,Technology,
+AYX,28.222221,Technology,
+AZPN,27.195742,Technology,
+BAND,11.402515,Technology,
+BCOV,-163.0,Technology,
+BDC,11.499314,Technology,
+BELFA,12.263159,Technology,
+BELFB,10.55635,Technology,
+BHE,12.905737,Technology,
+BKTI,4.1982245,Technology,
+BL,27.660465,Technology,
+BLKB,16.230928,Technology,
+BMI,40.868477,Technology,
+BOX,14.4375,Technology,
+BR,22.794205,Technology,
+CACI,17.460972,Technology,
+CALX,21.984253,Technology,
+CAMP,3.2777777,Technology,
+CASA,-0.175,Technology,
+CDNS,40.629524,Technology,
+CDW,21.450928,Technology,
+CETX,2.6363637,Technology,
+CEVA,40.61,Technology,
+CGNX,35.243694,Technology,
+CIEN,14.968254,Technology,
+CLFD,297.4,Technology,
+CLRO,-1.3061429,Technology,
+CMTL,2.9850745,Technology,
+CNDT,-19.235294,Technology,
+CNXN,16.407793,Technology,
+COHR,18.973244,Technology,
+COHU,17.895952,Technology,
+COMM,2.6566665,Technology,
+CRM,26.609922,Technology,
+CRUS,14.603251,Technology,
+CSCO,13.494286,Technology,
+CSGS,11.113164,Technology,
+CTS,17.984674,Technology,
+CTSH,13.312626,Technology,
+CVLT,33.168224,Technology,
+DAIO,9.632333,Technology,
+DAKT,11.862499,Technology,
+DBD,6.8869934,Technology,
+DBX,10.990783,Technology,
+DDD,inf,Technology,
+DELL,14.736342,Technology,
+DGII,13.590308,Technology,
+DHX,10.326087,Technology,
+DIOD,18.760815,Technology,
+DMRC,-20.411215,Technology,
+DOCU,16.075499,Technology,
+DOMO,-50.2,Technology,
+DXC,5.72063,Technology,
+DZSI,1.5895523,Technology,
+EB,-266.25,Technology,
+EEFT,10.818607,Technology,
+EGAN,19.515625,Technology,
+EGHT,5.111111,Technology,
+EMKR,-13.65,Technology,
+ENPH,21.619143,Technology,
+ENTG,30.591112,Technology,
+ENV,19.695238,Technology,
+EPAM,19.890192,Technology,
+ESE,21.761007,Technology,
+ESTC,75.14388,Technology,
+EVBG,18.529413,Technology,
+EVTC,11.92163,Technology,
+EXLS,16.043478,Technology,
+EXTR,13.783133,Technology,
+FARO,18.115385,Technology,
+FFIV,11.925017,Technology,
+FI,15.181999,Technology,
+FICO,39.042828,Technology,
+FIS,13.01695,Technology,
+FIVN,22.326996,Technology,
+FLT,13.448338,Technology,
+FN,19.12891,Technology,
+FORM,28.313663,Technology,
+FSLR,8.428705,Technology,
+FSLY,75.29412,Technology,
+FTNT,33.005154,Technology,
+FTV,18.467627,Technology,
+G,9.475684,Technology,
+GDDY,19.719145,Technology,
+GEN,9.304054,Technology,
+GLW,15.518349,Technology,
+GPRO,11.799999,Technology,
+GRMN,24.166666,Technology,
+GSIT,-7.381818,Technology,
+GVP,-1.3085715,Technology,
+GWRE,65.46511,Technology,
+HCKT,12.071428,Technology,
+HEAR,10.984252,Technology,
+HLIT,11.892473,Technology,
+HPE,8.479167,Technology,
+HPQ,7.8071623,Technology,
+HUBS,75.46611,Technology,
+IBM,17.092274,Technology,
+ICHR,18.66355,Technology,
+IDCC,21.990131,Technology,
+IDN,36.333332,Technology,
+III,7.666667,Technology,
+IIIV,12.483695,Technology,
+IMMR,11.1875,Technology,
+IMXI,7.9425287,Technology,
+INFN,21.413044,Technology,
+INOD,-117.200005,Technology,
+INPX,-0.06756411,Technology,
+INSG,-4.368842,Technology,
+INTC,16.724756,Technology,
+INTT,9.326612,Technology,
+INTU,33.819893,Technology,
+INVE,-64.125,Technology,
+IPGP,18.019438,Technology,
+ISDR,10.601851,Technology,
+IT,32.824577,Technology,
+ITI,21.238096,Technology,
+ITRI,22.126146,Technology,
+JBL,11.414286,Technology,
+JKHY,28.805265,Technology,
+JNPR,15.66,Technology,
+KEYS,20.402721,Technology,
+KLAC,25.156933,Technology,
+KLIC,17.003597,Technology,
+KN,12.407692,Technology,
+KOPN,83.75,Technology,
+KVHI,32.466663,Technology,
+LASR,-50.217392,Technology,
+LDOS,15.793064,Technology,
+LFUS,19.612959,Technology,
+LGL,25.391304,Technology,
+LITE,18.542017,Technology,
+LPSN,-0.66818184,Technology,
+LPTH,-15.666666,Technology,
+LRCX,27.423113,Technology,
+LSCC,42.865925,Technology,
+LTRX,7.7708335,Technology,
+LUNA,6.677419,Technology,
+LYFT,19.458334,Technology,
+LYTS,14.09434,Technology,
+MANH,47.0,Technology,
+MARK,-1.1818181,Technology,
+MCHP,29.719744,Technology,
+MDB,105.59544,Technology,
+MEI,65.12631,Technology,
+MIND,4.879083,Technology,
+MITK,10.896552,Technology,
+MKSI,17.771677,Technology,
+MLAB,278.1619,Technology,
+MODN,20.915495,Technology,
+MPWR,42.194443,Technology,
+MRAM,14.705883,Technology,
+MRIN,-61.0,Technology,
+MRVL,28.37083,Technology,
+MSFT,32.06029,Technology,
+MSI,24.957718,Technology,
+MSN,0.13761671,Technology,
+MSTR,505.2545,Technology,
+MTSI,31.605505,Technology,
+MU,16.379261,Technology,
+MVIS,-3.260652,Technology,
+MXL,28.391891,Technology,
+NEON,7.6996665,Technology,
+NOVT,39.1201,Technology,
+NOW,43.762024,Technology,
+NSIT,15.075164,Technology,
+NTAP,15.336811,Technology,
+NTCT,9.164319,Technology,
+NTGR,26.618181,Technology,
+NTNX,47.21212,Technology,
+NTWK,6.842105,Technology,
+NVDA,30.283648,Technology,
+NVEC,29.111946,Technology,
+OKTA,34.06909,Technology,
+OLED,28.277193,Technology,
+ON,14.779836,Technology,
+ORCL,19.793459,Technology,
+OSIS,15.540322,Technology,
+OSPN,9.531531,Technology,
+PANW,47.80813,Technology,
+PAR,366.6667,Technology,
+PAYC,21.911364,Technology,
+PCTY,23.39596,Technology,
+PD,24.445786,Technology,
+PDFS,27.756756,Technology,
+PEGA,18.968847,Technology,
+PI,67.625,Technology,
+PLAB,11.789583,Technology,
+PLUS,14.332423,Technology,
+PLXS,16.705883,Technology,
+POWI,32.47343,Technology,
+PRFT,10.269824,Technology,
+PRGS,9.942116,Technology,
+PRO,73.45283,Technology,
+PSN,24.750778,Technology,
+PSTG,28.456522,Technology,
+PTC,29.32512,Technology,
+PXLW,46.5875,Technology,
+QCOM,16.583252,Technology,
+QLYS,29.230635,Technology,
+QRVO,15.615282,Technology,
+QTWO,29.601696,Technology,
+QUIK,27.282415,Technology,
+RAMP,20.19753,Technology,
+RBCN,-1.825,Technology,
+REFR,-25.666666,Technology,
+RELL,21.0534,Technology,
+RMBS,22.87103,Technology,
+RNG,7.5654316,Technology,
+ROG,26.099571,Technology,
+ROP,25.709925,Technology,
+RPD,19.02066,Technology,
+RUN,-11.65934,Technology,
+SABR,8.953125,Technology,
+SAIC,14.810069,Technology,
+SANM,9.855366,Technology,
+SATS,-10.372549,Technology,
+SCSC,10.407178,Technology,
+SCWX,58.899998,Technology,
+SEAC,-50.0,Technology,
+SEDG,14.192134,Technology,
+SGH,9.179803,Technology,
+SLAB,44.16135,Technology,
+SMAR,27.161972,Technology,
+SMRT,59.625,Technology,
+SMSI,2.0166667,Technology,
+SMTC,24.34091,Technology,
+SNCR,-2.528517,Technology,
+SNPS,34.77141,Technology,
+SNX,9.013637,Technology,
+SONO,41.11905,Technology,
+SPLK,20.753967,Technology,
+SPSC,47.351707,Technology,
+SPWR,-17.541668,Technology,
+SQ,17.450703,Technology,
+SSNC,11.007105,Technology,
+SSTI,-1335.0001,Technology,
+ST,9.529904,Technology,
+STX,15.206349,Technology,
+SWKS,13.269608,Technology,
+SYNA,20.120575,Technology,
+TACT,35.230713,Technology,
+TDC,14.0207405,Technology,
+TDY,18.229704,Technology,
+TEL,17.240965,Technology,
+TENB,34.093987,Technology,
+TER,24.736841,Technology,
+TRMB,20.0,Technology,
+TTD,47.415257,Technology,
+TTEC,3.9749737,Technology,
+TTMI,8.831395,Technology,
+TXN,30.259762,Technology,
+TYL,44.449715,Technology,
+UBER,33.31951,Technology,
+UCTT,13.629808,Technology,
+UEIC,18.872726,Technology,
+UIS,9.2271185,Technology,
+UPLD,3.1805553,Technology,
+VECO,17.09524,Technology,
+VERI,-48.0,Technology,
+VHC,2.9726775,Technology,
+VIAV,14.258928,Technology,
+VICR,33.47525,Technology,
+VOXX,-8.049382,Technology,
+VPG,15.875,Technology,
+VRNS,193.19565,Technology,
+VRNT,9.969356,Technology,
+VRSN,19.822857,Technology,
+VSAT,-27.965517,Technology,
+VSH,11.7653055,Technology,
+VUZI,-2.3152544,Technology,
+WATT,-0.44235882,Technology,
+WDAY,31.377863,Technology,
+WDC,9.22425,Technology,
+WEX,11.5106945,Technology,
+WK,75.82076,Technology,
+WSTL,4.9,Technology,
+WYY,193.5,Technology,
+XELA,-1.6867391,Technology,
+XPER,24.904762,Technology,
+XRX,6.042035,Technology,
+YEXT,12.613637,Technology,
+ZBRA,22.438074,Technology,
+ZM,12.455823,Technology,
+ZS,53.5,Technology,
+ZUO,19.23077,Technology,
+USIO,8.388333,Technology,
+VISL,-1.6291666,Technology,
+AAP,16.60899,Consumer Cyclical,14.47728578458472
+ABG,6.846104,Consumer Cyclical,14.47728578458472
+ADNT,7.5797467,Consumer Cyclical,14.47728578458472
+AEO,12.800518,Consumer Cyclical,14.47728578458472
+AGS,18.122448,Consumer Cyclical,14.47728578458472
+AIN,18.006369,Consumer Cyclical,14.47728578458472
+ALSN,8.632912,Consumer Cyclical,14.47728578458472
+ALV,10.068808,Consumer Cyclical,14.47728578458472
+AMWD,10.224175,Consumer Cyclical,14.47728578458472
+AMZN,36.672066,Consumer Cyclical,14.47728578458472
+AN,8.131868,Consumer Cyclical,14.47728578458472
+ANF,15.462298,Consumer Cyclical,14.47728578458472
+APTV,9.903632,Consumer Cyclical,14.47728578458472
+AVY,20.714422,Consumer Cyclical,14.47728578458472
+AXL,13.943397,Consumer Cyclical,14.47728578458472
+AZO,17.708242,Consumer Cyclical,14.47728578458472
+BBW,7.9687505,Consumer Cyclical,14.47728578458472
+BBY,11.016369,Consumer Cyclical,14.47728578458472
+BC,9.60035,Consumer Cyclical,14.47728578458472
+BERY,6.857831,Consumer Cyclical,14.47728578458472
+BFAM,26.625317,Consumer Cyclical,14.47728578458472
+BGFV,-23.466665,Consumer Cyclical,14.47728578458472
+BH,-26.838257,Consumer Cyclical,14.47728578458472
+BJRI,22.228188,Consumer Cyclical,14.47728578458472
+BKE,9.147561,Consumer Cyclical,14.47728578458472
+BKNG,17.100454,Consumer Cyclical,14.47728578458472
+BLBD,13.467872,Consumer Cyclical,14.47728578458472
+BLMN,9.4577055,Consumer Cyclical,14.47728578458472
+BNED,-0.5472973,Consumer Cyclical,14.47728578458472
+BOOT,20.982592,Consumer Cyclical,14.47728578458472
+BSET,10.496241,Consumer Cyclical,14.47728578458472
+BURL,20.023941,Consumer Cyclical,14.47728578458472
+BWA,7.6356325,Consumer Cyclical,14.47728578458472
+BYD,8.066971,Consumer Cyclical,14.47728578458472
+BZH,5.197782,Consumer Cyclical,14.47728578458472
+CAKE,10.128281,Consumer Cyclical,14.47728578458472
+CAL,7.3980002,Consumer Cyclical,14.47728578458472
+CARG,14.619355,Consumer Cyclical,14.47728578458472
+CARS,24.529411,Consumer Cyclical,14.47728578458472
+CASY,22.845879,Consumer Cyclical,14.47728578458472
+CATO,3.7,Consumer Cyclical,14.47728578458472
+CBRL,11.490119,Consumer Cyclical,14.47728578458472
+CCK,12.477105,Consumer Cyclical,14.47728578458472
+CCL,10.517483,Consumer Cyclical,14.47728578458472
+CCS,6.7933106,Consumer Cyclical,14.47728578458472
+CHDN,16.764324,Consumer Cyclical,14.47728578458472
+CHH,17.17971,Consumer Cyclical,14.47728578458472
+CHUY,14.202831,Consumer Cyclical,14.47728578458472
+CLAR,22.553572,Consumer Cyclical,14.47728578458472
+CMG,47.889187,Consumer Cyclical,14.47728578458472
+CNNE,-35.945454,Consumer Cyclical,14.47728578458472
+CNTY,-13.590909,Consumer Cyclical,14.47728578458472
+COLM,18.279177,Consumer Cyclical,14.47728578458472
+CONN,19.210527,Consumer Cyclical,14.47728578458472
+CPRI,8.208333,Consumer Cyclical,14.47728578458472
+CPS,-10.648275,Consumer Cyclical,14.47728578458472
+CRI,10.718944,Consumer Cyclical,14.47728578458472
+CRMT,14.953125,Consumer Cyclical,14.47728578458472
+CROX,9.385841,Consumer Cyclical,14.47728578458472
+CRWS,6.7105265,Consumer Cyclical,14.47728578458472
+CSV,10.128406,Consumer Cyclical,14.47728578458472
+CTHR,-5.606667,Consumer Cyclical,14.47728578458472
+CTRN,182.25002,Consumer Cyclical,14.47728578458472
+CULP,-23.050001,Consumer Cyclical,14.47728578458472
+CVCO,16.680178,Consumer Cyclical,14.47728578458472
+CVGI,5.163793,Consumer Cyclical,14.47728578458472
+CVNA,-33.95661,Consumer Cyclical,14.47728578458472
+CWH,9.652581,Consumer Cyclical,14.47728578458472
+CZR,15.693618,Consumer Cyclical,14.47728578458472
+DAN,8.171053,Consumer Cyclical,14.47728578458472
+DBI,8.600917,Consumer Cyclical,14.47728578458472
+DDS,14.069588,Consumer Cyclical,14.47728578458472
+DECK,27.40692,Consumer Cyclical,14.47728578458472
+DENN,11.027027,Consumer Cyclical,14.47728578458472
+DHI,9.343487,Consumer Cyclical,14.47728578458472
+DIN,6.565789,Consumer Cyclical,14.47728578458472
+DKS,14.146341,Consumer Cyclical,14.47728578458472
+DLA,-3.30137,Consumer Cyclical,14.47728578458472
+DLTH,-36.000004,Consumer Cyclical,14.47728578458472
+DORM,14.343731,Consumer Cyclical,14.47728578458472
+DPZ,30.14166,Consumer Cyclical,14.47728578458472
+DRI,16.096153,Consumer Cyclical,14.47728578458472
+DSS,-2.15025,Consumer Cyclical,14.47728578458472
+DXLG,11.099999,Consumer Cyclical,14.47728578458472
+DXYN,2.12,Consumer Cyclical,14.47728578458472
+EAT,13.07561,Consumer Cyclical,14.47728578458472
+EBAY,11.131411,Consumer Cyclical,14.47728578458472
+EFOI,-6.8636365,Consumer Cyclical,14.47728578458472
+ESCA,6.673469,Consumer Cyclical,14.47728578458472
+ETSY,22.679869,Consumer Cyclical,14.47728578458472
+EVRI,8.117647,Consumer Cyclical,14.47728578458472
+EXPE,8.864846,Consumer Cyclical,14.47728578458472
+EXPR,-0.12575758,Consumer Cyclical,14.47728578458472
+EYE,22.468353,Consumer Cyclical,14.47728578458472
+F,6.411917,Consumer Cyclical,14.47728578458472
+FIVE,20.447845,Consumer Cyclical,14.47728578458472
+FL,9.557077,Consumer Cyclical,14.47728578458472
+FLL,17.048386,Consumer Cyclical,14.47728578458472
+FLWS,23.615385,Consumer Cyclical,14.47728578458472
+FLXS,11.6229515,Consumer Cyclical,14.47728578458472
+FND,41.26217,Consumer Cyclical,14.47728578458472
+FNKO,15.7105255,Consumer Cyclical,14.47728578458472
+FORD,7.857143,Consumer Cyclical,14.47728578458472
+FOSL,-0.66684216,Consumer Cyclical,14.47728578458472
+FOXF,10.090956,Consumer Cyclical,14.47728578458472
+FTDR,11.869231,Consumer Cyclical,14.47728578458472
+GCO,11.907407,Consumer Cyclical,14.47728578458472
+GDEN,19.88889,Consumer Cyclical,14.47728578458472
+GEF,11.8119,Consumer Cyclical,14.47728578458472
+GES,8.434375,Consumer Cyclical,14.47728578458472
+GIII,8.0084505,Consumer Cyclical,14.47728578458472
+GM,4.6733956,Consumer Cyclical,14.47728578458472
+GME,183.66833,Consumer Cyclical,14.47728578458472
+GNTX,14.24074,Consumer Cyclical,14.47728578458472
+GOLF,17.086351,Consumer Cyclical,14.47728578458472
+GPC,14.763501,Consumer Cyclical,14.47728578458472
+GPI,7.4780526,Consumer Cyclical,14.47728578458472
+GPK,9.135416,Consumer Cyclical,14.47728578458472
+GPS,13.420886,Consumer Cyclical,14.47728578458472
+GRBK,7.4871798,Consumer Cyclical,14.47728578458472
+GT,6.388298,Consumer Cyclical,14.47728578458472
+GTIM,137.0,Consumer Cyclical,14.47728578458472
+GTX,6.930657,Consumer Cyclical,14.47728578458472
+H,34.15158,Consumer Cyclical,14.47728578458472
+HAS,15.02148,Consumer Cyclical,14.47728578458472
+HBB,13.28125,Consumer Cyclical,14.47728578458472
+HBI,7.125,Consumer Cyclical,14.47728578458472
+HD,20.314209,Consumer Cyclical,14.47728578458472
+HGV,8.746887,Consumer Cyclical,14.47728578458472
+HIBB,9.461538,Consumer Cyclical,14.47728578458472
+HLT,24.281061,Consumer Cyclical,14.47728578458472
+HOFT,9.190535,Consumer Cyclical,14.47728578458472
+HOG,7.2949786,Consumer Cyclical,14.47728578458472
+HOV,207.05556,Consumer Cyclical,14.47728578458472
+HRB,10.206897,Consumer Cyclical,14.47728578458472
+HVT,8.856733,Consumer Cyclical,14.47728578458472
+HZO,7.1267605,Consumer Cyclical,14.47728578458472
+IBP,18.632843,Consumer Cyclical,14.47728578458472
+INSE,8.113209,Consumer Cyclical,14.47728578458472
+IP,12.423215,Consumer Cyclical,14.47728578458472
+IRBT,-6.0281696,Consumer Cyclical,14.47728578458472
+JACK,8.145251,Consumer Cyclical,14.47728578458472
+JAKK,4.470726,Consumer Cyclical,14.47728578458472
+JILL,7.1074376,Consumer Cyclical,14.47728578458472
+JOUT,11.622857,Consumer Cyclical,14.47728578458472
+JWN,9.728856,Consumer Cyclical,14.47728578458472
+KAR,17.315,Consumer Cyclical,14.47728578458472
+KBH,7.852694,Consumer Cyclical,14.47728578458472
+KEQU,15.972221,Consumer Cyclical,14.47728578458472
+KIRK,-1.6272035,Consumer Cyclical,14.47728578458472
+KMX,18.34543,Consumer Cyclical,14.47728578458472
+KSS,9.022727,Consumer Cyclical,14.47728578458472
+LAD,6.9131556,Consumer Cyclical,14.47728578458472
+LAKE,8.532994,Consumer Cyclical,14.47728578458472
+LCII,14.527778,Consumer Cyclical,14.47728578458472
+LCUT,10.128478,Consumer Cyclical,14.47728578458472
+LE,38.11111,Consumer Cyclical,14.47728578458472
+LEA,7.2568703,Consumer Cyclical,14.47728578458472
+LEG,13.799242,Consumer Cyclical,14.47728578458472
+LEGH,10.699482,Consumer Cyclical,14.47728578458472
+LEN,9.409418,Consumer Cyclical,14.47728578458472
+LEVI,14.845889,Consumer Cyclical,14.47728578458472
+LGIH,7.827265,Consumer Cyclical,14.47728578458472
+LIND,-54.333336,Consumer Cyclical,14.47728578458472
+LIVE,3.3533332,Consumer Cyclical,14.47728578458472
+LKQ,10.036696,Consumer Cyclical,14.47728578458472
+LL,-1.0695364,Consumer Cyclical,14.47728578458472
+LOCO,12.357142,Consumer Cyclical,14.47728578458472
+LOVE,11.12,Consumer Cyclical,14.47728578458472
+LOW,17.082527,Consumer Cyclical,14.47728578458472
+LQDT,14.028226,Consumer Cyclical,14.47728578458472
+LULU,22.724117,Consumer Cyclical,14.47728578458472
+LVS,14.60356,Consumer Cyclical,14.47728578458472
+LZB,11.14478,Consumer Cyclical,14.47728578458472
+M,6.9583335,Consumer Cyclical,14.47728578458472
+MAR,22.163874,Consumer Cyclical,14.47728578458472
+MAT,11.883117,Consumer Cyclical,14.47728578458472
+MBUU,7.8610477,Consumer Cyclical,14.47728578458472
+MCD,21.664156,Consumer Cyclical,14.47728578458472
+MCFT,8.798284,Consumer Cyclical,14.47728578458472
+MCRI,14.9092865,Consumer Cyclical,14.47728578458472
+MDC,11.226381,Consumer Cyclical,14.47728578458472
+MED,8.733226,Consumer Cyclical,14.47728578458472
+MGM,13.963792,Consumer Cyclical,14.47728578458472
+MHK,10.540215,Consumer Cyclical,14.47728578458472
+MHO,6.52854,Consumer Cyclical,14.47728578458472
+MNRO,16.603659,Consumer Cyclical,14.47728578458472
+MOD,24.868767,Consumer Cyclical,14.47728578458472
+MOV,9.535055,Consumer Cyclical,14.47728578458472
+MPAA,10.642858,Consumer Cyclical,14.47728578458472
+MPX,11.831579,Consumer Cyclical,14.47728578458472
+MTH,7.96461,Consumer Cyclical,14.47728578458472
+MTN,19.96373,Consumer Cyclical,14.47728578458472
+MUSA,15.65887,Consumer Cyclical,14.47728578458472
+MYE,12.985294,Consumer Cyclical,14.47728578458472
+NCLH,11.017341,Consumer Cyclical,14.47728578458472
+NDLS,-6.543478,Consumer Cyclical,14.47728578458472
+NKE,25.214092,Consumer Cyclical,14.47728578458472
+NVR,14.751031,Consumer Cyclical,14.47728578458472
+ODP,7.5320697,Consumer Cyclical,14.47728578458472
+OI,5.730627,Consumer Cyclical,14.47728578458472
+ORLY,21.790602,Consumer Cyclical,14.47728578458472
+OXM,10.818982,Consumer Cyclical,14.47728578458472
+PAG,10.451824,Consumer Cyclical,14.47728578458472
+PATK,10.923078,Consumer Cyclical,14.47728578458472
+PBPB,36.034485,Consumer Cyclical,14.47728578458472
+PENN,14.981981,Consumer Cyclical,14.47728578458472
+PHM,8.473901,Consumer Cyclical,14.47728578458472
+PII,9.419478,Consumer Cyclical,14.47728578458472
+PKG,17.656378,Consumer Cyclical,14.47728578458472
+PLCE,9.810811,Consumer Cyclical,14.47728578458472
+PLNT,20.919298,Consumer Cyclical,14.47728578458472
+PLOW,11.033817,Consumer Cyclical,14.47728578458472
+PLYA,15.432203,Consumer Cyclical,14.47728578458472
+POL,182.22,Consumer Cyclical,14.47728578458472
+PRTS,-4.92,Consumer Cyclical,14.47728578458472
+PVH,8.753749,Consumer Cyclical,14.47728578458472
+PZZA,19.884617,Consumer Cyclical,14.47728578458472
+QRTEA,1.3351514,Consumer Cyclical,14.47728578458472
+RAVE,-13.562666,Consumer Cyclical,14.47728578458472
+RCKY,8.8775,Consumer Cyclical,14.47728578458472
+RCL,11.3288,Consumer Cyclical,14.47728578458472
+RGS,-2.0416665,Consumer Cyclical,14.47728578458472
+RH,16.91522,Consumer Cyclical,14.47728578458472
+RICK,8.20626,Consumer Cyclical,14.47728578458472
+RL,14.844028,Consumer Cyclical,14.47728578458472
+ROL,39.977875,Consumer Cyclical,14.47728578458472
+ROST,19.853434,Consumer Cyclical,14.47728578458472
+RRGB,-25.103449,Consumer Cyclical,14.47728578458472
+RRR,18.876307,Consumer Cyclical,14.47728578458472
+RUSHA,11.34557,Consumer Cyclical,14.47728578458472
+SAH,9.054433,Consumer Cyclical,14.47728578458472
+SBH,5.535176,Consumer Cyclical,14.47728578458472
+SBUX,18.926882,Consumer Cyclical,14.47728578458472
+SCI,17.98263,Consumer Cyclical,14.47728578458472
+SCVL,11.053922,Consumer Cyclical,14.47728578458472
+SEE,9.677914,Consumer Cyclical,14.47728578458472
+SFIX,-3.0507247,Consumer Cyclical,14.47728578458472
+SGC,15.26422,Consumer Cyclical,14.47728578458472
+SHAK,109.75,Consumer Cyclical,14.47728578458472
+SHOO,13.697987,Consumer Cyclical,14.47728578458472
+SIG,8.125203,Consumer Cyclical,14.47728578458472
+SIX,10.814479,Consumer Cyclical,14.47728578458472
+SKX,13.812109,Consumer Cyclical,14.47728578458472
+SKY,23.027191,Consumer Cyclical,14.47728578458472
+SLGN,11.736842,Consumer Cyclical,14.47728578458472
+SMP,9.156695,Consumer Cyclical,14.47728578458472
+SNBR,15.781609,Consumer Cyclical,14.47728578458472
+SON,10.423714,Consumer Cyclical,14.47728578458472
+SPWH,14.659091,Consumer Cyclical,14.47728578458472
+SRI,21.835714,Consumer Cyclical,14.47728578458472
+STKS,21.653847,Consumer Cyclical,14.47728578458472
+STRT,15.965277,Consumer Cyclical,14.47728578458472
+SUP,-26.714285,Consumer Cyclical,14.47728578458472
+TAST,14.201492,Consumer Cyclical,14.47728578458472
+TCS,44.0,Consumer Cyclical,14.47728578458472
+THO,12.5895815,Consumer Cyclical,14.47728578458472
+THRM,14.791667,Consumer Cyclical,14.47728578458472
+TJX,20.900442,Consumer Cyclical,14.47728578458472
+TLF,8.24138,Consumer Cyclical,14.47728578458472
+TLYS,-24.895834,Consumer Cyclical,14.47728578458472
+TMHC,6.9095354,Consumer Cyclical,14.47728578458472
+TOL,8.805762,Consumer Cyclical,14.47728578458472
+TPH,7.3638344,Consumer Cyclical,14.47728578458472
+TPR,8.86923,Consumer Cyclical,14.47728578458472
+TPX,15.904984,Consumer Cyclical,14.47728578458472
+TRIP,14.23545,Consumer Cyclical,14.47728578458472
+TRS,12.004545,Consumer Cyclical,14.47728578458472
+TSCO,24.351494,Consumer Cyclical,14.47728578458472
+TSLA,58.98731,Consumer Cyclical,14.47728578458472
+TUP,1.3495182,Consumer Cyclical,14.47728578458472
+TXRH,25.392235,Consumer Cyclical,14.47728578458472
+UA,11.042373,Consumer Cyclical,14.47728578458472
+UAA,11.258333,Consumer Cyclical,14.47728578458472
+UFI,8.7846155,Consumer Cyclical,14.47728578458472
+ULTA,13.786639,Consumer Cyclical,14.47728578458472
+URBN,10.169666,Consumer Cyclical,14.47728578458472
+VAC,10.963554,Consumer Cyclical,14.47728578458472
+VC,10.855545,Consumer Cyclical,14.47728578458472
+VFC,9.642857,Consumer Cyclical,14.47728578458472
+VIRC,6.1525426,Consumer Cyclical,14.47728578458472
+VNCE,-4.828572,Consumer Cyclical,14.47728578458472
+VRA,9.6214285,Consumer Cyclical,14.47728578458472
+VSTO,7.8501124,Consumer Cyclical,14.47728578458472
+W,25.365854,Consumer Cyclical,14.47728578458472
+WEN,17.808035,Consumer Cyclical,14.47728578458472
+WEYS,19.965517,Consumer Cyclical,14.47728578458472
+WGO,8.686275,Consumer Cyclical,14.47728578458472
+WH,15.7218685,Consumer Cyclical,14.47728578458472
+WHR,6.9597697,Consumer Cyclical,14.47728578458472
+WING,104.750916,Consumer Cyclical,14.47728578458472
+WKHS,-0.6130769,Consumer Cyclical,14.47728578458472
+WRK,14.5,Consumer Cyclical,14.47728578458472
+WSM,17.835808,Consumer Cyclical,14.47728578458472
+WWW,9.968468,Consumer Cyclical,14.47728578458472
+WYNN,17.151625,Consumer Cyclical,14.47728578458472
+XELB,6.366667,Consumer Cyclical,14.47728578458472
+YETI,13.179348,Consumer Cyclical,14.47728578458472
+YUM,21.821264,Consumer Cyclical,14.47728578458472
+ZUMZ,32.89423,Consumer Cyclical,14.47728578458472
+WW,5.367647,Consumer Cyclical,14.47728578458472
+AAT,29.643833,Real Estate,
+ABR,7.5847955,Real Estate,
+ACRE,8.740506,Real Estate,
+ADC,30.865591,Real Estate,
+AGNC,4.628191,Real Estate,
+AHH,-62.29471,Real Estate,
+AHT,-0.31161457,Real Estate,
+AIV,-46.82353,Real Estate,
+AJX,7.866667,Real Estate,
+AKR,48.657146,Real Estate,
+ALEX,21.946665,Real Estate,
+ALX,15.987701,Real Estate,
+AMH,52.188404,Real Estate,
+AMT,23.704206,Real Estate,
+APLE,17.845238,Real Estate,
+ARE,31.065617,Real Estate,
+ARI,7.996129,Real Estate,
+ARR,4.316901,Real Estate,
+ASPS,-6.4748387,Real Estate,
+AVB,34.93934,Real Estate,
+BDN,-14.075757,Real Estate,
+BFS,32.796997,Real Estate,
+BHR,-3.2828574,Real Estate,
+BRT,-37.08163,Real Estate,
+BRX,23.594738,Real Estate,
+BXMT,9.295812,Real Estate,
+BXP,30.711166,Real Estate,
+CBRE,15.822842,Real Estate,
+CCI,36.859924,Real Estate,
+CHCT,29.622223,Real Estate,
+CHMI,3.7824998,Real Estate,
+CIM,6.75,Real Estate,
+CIO,-9.540816,Real Estate,
+CLDT,-926.00006,Real Estate,
+CLPR,10.575,Real Estate,
+CMCT,6.3611107,Real Estate,
+COLD,56.69231,Real Estate,
+CORR,0.09428572,Real Estate,
+CPT,56.982956,Real Estate,
+CSGP,72.125,Real Estate,
+CTO,-33.980392,Real Estate,
+CTRE,22.080357,Real Estate,
+CUBE,22.594444,Real Estate,
+CUZ,42.563637,Real Estate,
+DEA,46.3192,Real Estate,
+DEI,-19.194443,Real Estate,
+DLR,112.11905,Real Estate,
+DOC,33.41228,Real Estate,
+DRH,19.641304,Real Estate,
+DX,117.799995,Real Estate,
+EFC,6.67936,Real Estate,
+EGP,32.00408,Real Estate,
+ELS,32.446236,Real Estate,
+EPR,15.182156,Real Estate,
+EPRT,21.557377,Real Estate,
+EQC,-187.4,Real Estate,
+EQIX,53.040894,Real Estate,
+EQR,39.597565,Real Estate,
+ESRT,77.083336,Real Estate,
+ESS,43.929077,Real Estate,
+EXPI,55.722218,Real Estate,
+EXR,28.22314,Real Estate,
+FCPT,21.142857,Real Estate,
+FOR,7.6180096,Real Estate,
+FPI,-269.0,Real Estate,
+FR,27.948486,Real Estate,
+FRPH,73.190475,Real Estate,
+FRT,32.600628,Real Estate,
+FSP,-6.1093755,Real Estate,
+GLPI,14.520134,Real Estate,
+GMRE,272.87,Real Estate,
+GNL,-11.106984,Real Estate,
+GOOD,223.0,Real Estate,
+GPMT,16.185184,Real Estate,
+GTY,22.983053,Real Estate,
+HASI,9.421052,Real Estate,
+HIW,64.57317,Real Estate,
+HPP,-4.831967,Real Estate,
+HR,-34.76829,Real Estate,
+HST,15.487804,Real Estate,
+IIPR,16.981068,Real Estate,
+ILPT,-2.4652777,Real Estate,
+INN,-33.888885,Real Estate,
+INVH,44.83117,Real Estate,
+IRM,36.285046,Real Estate,
+IRT,52.983334,Real Estate,
+IVR,2.22987,Real Estate,
+JBGS,-9.208334,Real Estate,
+JLL,11.98469,Real Estate,
+JOE,526.1473,Real Estate,
+KIM,25.286667,Real Estate,
+KRC,21.949043,Real Estate,
+KREF,7.4724407,Real Estate,
+KRG,91.208336,Real Estate,
+LADR,8.113806,Real Estate,
+LAMR,20.557219,Real Estate,
+LAND,-43.72414,Real Estate,
+LOAN,10.36102,Real Estate,
+LODE,-1.7794118,Real Estate,
+LTC,17.723404,Real Estate,
+LXP,inf,Real Estate,
+MAA,30.842722,Real Estate,
+MAC,-149.7,Real Estate,
+MFA,6.4666667,Real Estate,
+MITT,7.574324,Real Estate,
+MMI,33.375,Real Estate,
+MPW,9.744898,Real Estate,
+NHI,21.026579,Real Estate,
+NLY,6.9780216,Real Estate,
+NMRK,7.523077,Real Estate,
+NNN,19.94853,Real Estate,
+NSA,33.009342,Real Estate,
+NXRT,-48.57143,Real Estate,
+NYMT,7.593406,Real Estate,
+O,33.15644,Real Estate,
+OHI,21.16096,Real Estate,
+OLP,45.8222,Real Estate,
+OPI,-1.1436464,Real Estate,
+ORC,36.561302,Real Estate,
+OUT,21.197369,Real Estate,
+PCH,48.3494,Real Estate,
+PDM,-29.083334,Real Estate,
+PEB,-32.20652,Real Estate,
+PGRE,-10.358695,Real Estate,
+PK,19.559525,Real Estate,
+PLD,35.66724,Real Estate,
+PLYM,692.0,Real Estate,
+PMT,9.454054,Real Estate,
+PSA,23.722525,Real Estate,
+PW,0.12214673,Real Estate,
+RC,6.9199996,Real Estate,
+RDFN,-5.4362745,Real Estate,
+REG,27.83568,Real Estate,
+REXR,32.264927,Real Estate,
+RHP,20.451056,Real Estate,
+RLJ,34.546875,Real Estate,
+RMAX,5.1240873,Real Estate,
+RMR,11.294812,Real Estate,
+ROIC,38.609375,Real Estate,
+RWT,8.447761,Real Estate,
+RYN,48.836067,Real Estate,
+SACH,8.513514,Real Estate,
+SAFE,11.250001,Real Estate,
+SBAC,31.568184,Real Estate,
+SBRA,22.132812,Real Estate,
+SELF,18.402609,Real Estate,
+SHO,28.23611,Real Estate,
+SITC,268.3,Real Estate,
+SKT,32.906975,Real Estate,
+SLG,-23.934883,Real Estate,
+SOHO,-2.1607144,Real Estate,
+SPG,22.886507,Real Estate,
+SRG,4.288991,Real Estate,
+STAG,39.25568,Real Estate,
+STWD,9.722222,Real Estate,
+SUI,49.367966,Real Estate,
+TRNO,33.475613,Real Estate,
+TRTX,8.510568,Real Estate,
+TWO,9.064749,Real Estate,
+UDR,86.818184,Real Estate,
+UE,39.76191,Real Estate,
+UMH,84.1579,Real Estate,
+UNIT,10.379629,Real Estate,
+VICI,10.640221,Real Estate,
+VNO,-334.25,Real Estate,
+VTR,-51.0625,Real Estate,
+WELL,57.4142,Real Estate,
+WHLR,-0.06753555,Real Estate,
+WPC,22.136,Real Estate,
+WSR,-573.5,Real Estate,
+WY,23.673077,Real Estate,
+XHR,41.308823,Real Estate,
+ABCB,9.844581,Financial Services,12.598469945390626
+AC,12.413129,Financial Services,12.598469945390626
+ACGL,10.699883,Financial Services,12.598469945390626
+ACNB,9.374914,Financial Services,12.598469945390626
+AEL,7.974468,Financial Services,12.598469945390626
+AFG,10.641005,Financial Services,12.598469945390626
+AFL,12.200828,Financial Services,12.598469945390626
+AGM,10.300925,Financial Services,12.598469945390626
+AGO,11.50074,Financial Services,12.598469945390626
+AIG,9.560203,Financial Services,12.598469945390626
+AINC,0.7156662,Financial Services,12.598469945390626
+AIZ,10.323449,Financial Services,12.598469945390626
+AJG,20.61474,Financial Services,12.598469945390626
+ALL,9.984652,Financial Services,12.598469945390626
+ALLY,7.206276,Financial Services,12.598469945390626
+AMAL,7.555046,Financial Services,12.598469945390626
+AMBC,42.17143,Financial Services,12.598469945390626
+AMG,6.4021826,Financial Services,12.598469945390626
+AMNB,19.899998,Financial Services,12.598469945390626
+AMP,10.849278,Financial Services,12.598469945390626
+AMRK,7.560297,Financial Services,12.598469945390626
+AMSF,18.809128,Financial Services,12.598469945390626
+AON,16.239317,Financial Services,12.598469945390626
+APAM,11.494445,Financial Services,12.598469945390626
+ARES,21.700813,Financial Services,12.598469945390626
+AROW,8.584906,Financial Services,12.598469945390626
+ASB,9.025316,Financial Services,12.598469945390626
+ATLC,4.3359747,Financial Services,12.598469945390626
+AX,7.4109197,Financial Services,12.598469945390626
+AXP,15.95744,Financial Services,12.598469945390626
+AXS,5.836174,Financial Services,12.598469945390626
+BAC,11.308735,Financial Services,12.598469945390626
+BANC,6.9183173,Financial Services,12.598469945390626
+BANF,15.943548,Financial Services,12.598469945390626
+BANR,8.889337,Financial Services,12.598469945390626
+BCBP,6.1428576,Financial Services,12.598469945390626
+BEN,8.15929,Financial Services,12.598469945390626
+BFIN,11.517647,Financial Services,12.598469945390626
+BFST,7.8396955,Financial Services,12.598469945390626
+BHB,9.082806,Financial Services,12.598469945390626
+BHF,2.439638,Financial Services,12.598469945390626
+BHLB,8.958848,Financial Services,12.598469945390626
+BK,9.424217,Financial Services,12.598469945390626
+BKU,8.615142,Financial Services,12.598469945390626
+BLK,16.227797,Financial Services,12.598469945390626
+BMRC,9.284314,Financial Services,12.598469945390626
+BOH,15.339573,Financial Services,12.598469945390626
+BOKF,10.660165,Financial Services,12.598469945390626
+BPOP,7.7745275,Financial Services,12.598469945390626
+BPRN,8.823881,Financial Services,12.598469945390626
+BRKL,8.166667,Financial Services,12.598469945390626
+BRO,21.242188,Financial Services,12.598469945390626
+BSRR,8.278226,Financial Services,12.598469945390626
+BUSE,9.701299,Financial Services,12.598469945390626
+BWFG,6.534119,Financial Services,12.598469945390626
+BY,8.575099,Financial Services,12.598469945390626
+C,9.219911,Financial Services,12.598469945390626
+CAC,9.223404,Financial Services,12.598469945390626
+CACC,12.28981,Financial Services,12.598469945390626
+CADE,10.089605,Financial Services,12.598469945390626
+CASH,7.6288657,Financial Services,12.598469945390626
+CATC,10.0672,Financial Services,12.598469945390626
+CATY,8.354241,Financial Services,12.598469945390626
+CB,10.56459,Financial Services,12.598469945390626
+CBAN,7.069103,Financial Services,12.598469945390626
+CBFV,9.763816,Financial Services,12.598469945390626
+CBOE,20.027313,Financial Services,12.598469945390626
+CBSH,15.801724,Financial Services,12.598469945390626
+CBU,12.5172415,Financial Services,12.598469945390626
+CCBG,9.710432,Financial Services,12.598469945390626
+CCNE,7.9430385,Financial Services,12.598469945390626
+CFBK,8.338964,Financial Services,12.598469945390626
+CFFN,9.846938,Financial Services,12.598469945390626
+CFG,8.555693,Financial Services,12.598469945390626
+CFR,12.479191,Financial Services,12.598469945390626
+CHCO,13.981055,Financial Services,12.598469945390626
+CHMG,8.026316,Financial Services,12.598469945390626
+CINF,16.315788,Financial Services,12.598469945390626
+CIVB,7.0731707,Financial Services,12.598469945390626
+CMA,8.351308,Financial Services,12.598469945390626
+CME,20.877254,Financial Services,12.598469945390626
+CNA,8.299242,Financial Services,12.598469945390626
+CNFR,-12.594286,Financial Services,12.598469945390626
+CNO,7.5404625,Financial Services,12.598469945390626
+CNOB,8.521126,Financial Services,12.598469945390626
+CNS,21.21854,Financial Services,12.598469945390626
+COF,8.964043,Financial Services,12.598469945390626
+COLB,7.248077,Financial Services,12.598469945390626
+COOP,6.810225,Financial Services,12.598469945390626
+CPF,8.557447,Financial Services,12.598469945390626
+CPSS,10.240964,Financial Services,12.598469945390626
+CSTR,16.08,Financial Services,12.598469945390626
+CTBI,9.720554,Financial Services,12.598469945390626
+CUBI,6.4124827,Financial Services,12.598469945390626
+CURO,-0.13461539,Financial Services,12.598469945390626
+CVBF,10.98,Financial Services,12.598469945390626
+CVCY,7.3940516,Financial Services,12.598469945390626
+CVLY,11.225,Financial Services,12.598469945390626
+CWBC,6.5373135,Financial Services,12.598469945390626
+CZNC,9.806818,Financial Services,12.598469945390626
+CZWI,7.4113474,Financial Services,12.598469945390626
+DCOM,6.7992697,Financial Services,12.598469945390626
+DFIN,16.319122,Financial Services,12.598469945390626
+DFS,9.759174,Financial Services,12.598469945390626
+DGICA,11.933036,Financial Services,12.598469945390626
+EARN,6.0636363,Financial Services,12.598469945390626
+EBMT,7.680723,Financial Services,12.598469945390626
+ECPG,4.69898,Financial Services,12.598469945390626
+EFSC,8.563063,Financial Services,12.598469945390626
+EGBN,7.405512,Financial Services,12.598469945390626
+EHTH,87.799995,Financial Services,12.598469945390626
+EIG,11.678474,Financial Services,12.598469945390626
+ENVA,6.490062,Financial Services,12.598469945390626
+EQBK,7.7302327,Financial Services,12.598469945390626
+EQH,5.1553397,Financial Services,12.598469945390626
+ERIE,35.731457,Financial Services,12.598469945390626
+ESGR,7.3197503,Financial Services,12.598469945390626
+ESNT,7.630682,Financial Services,12.598469945390626
+ESSA,7.9705887,Financial Services,12.598469945390626
+EVBN,10.978724,Financial Services,12.598469945390626
+EVR,12.231383,Financial Services,12.598469945390626
+EWBC,9.092262,Financial Services,12.598469945390626
+EZPW,9.289916,Financial Services,12.598469945390626
+FAF,10.280535,Financial Services,12.598469945390626
+FBIZ,6.3723607,Financial Services,12.598469945390626
+FBK,11.7955265,Financial Services,12.598469945390626
+FBMS,9.033834,Financial Services,12.598469945390626
+FBNC,10.878092,Financial Services,12.598469945390626
+FBP,9.432433,Financial Services,12.598469945390626
+FCBC,14.60965,Financial Services,12.598469945390626
+FCCO,9.092391,Financial Services,12.598469945390626
+FCF,9.206897,Financial Services,12.598469945390626
+FCFS,14.136646,Financial Services,12.598469945390626
+FCNCA,8.811163,Financial Services,12.598469945390626
+FDS,23.979713,Financial Services,12.598469945390626
+FFBC,9.279166,Financial Services,12.598469945390626
+FFIC,9.745614,Financial Services,12.598469945390626
+FFIN,19.264517,Financial Services,12.598469945390626
+FFNW,37.072727,Financial Services,12.598469945390626
+FFWM,7.0548778,Financial Services,12.598469945390626
+FGBI,11.466666,Financial Services,12.598469945390626
+FHB,12.011173,Financial Services,12.598469945390626
+FHN,9.029941,Financial Services,12.598469945390626
+FIBK,10.42085,Financial Services,12.598469945390626
+FISI,5.5987053,Financial Services,12.598469945390626
+FITB,10.34972,Financial Services,12.598469945390626
+FLIC,8.362832,Financial Services,12.598469945390626
+FMAO,11.991477,Financial Services,12.598469945390626
+FMBH,9.361446,Financial Services,12.598469945390626
+FMNB,9.240311,Financial Services,12.598469945390626
+FNB,8.775974,Financial Services,12.598469945390626
+FNF,8.703125,Financial Services,12.598469945390626
+FNWB,9.945454,Financial Services,12.598469945390626
+FRBA,6.7009773,Financial Services,12.598469945390626
+FRBK,0.01,Financial Services,12.598469945390626
+FRME,9.728324,Financial Services,12.598469945390626
+FSBW,6.986499,Financial Services,12.598469945390626
+FSFG,6.549547,Financial Services,12.598469945390626
+FULT,10.677216,Financial Services,12.598469945390626
+FUNC,7.222222,Financial Services,12.598469945390626
+GABC,12.15209,Financial Services,12.598469945390626
+GBCI,15.982683,Financial Services,12.598469945390626
+GBLI,9.284023,Financial Services,12.598469945390626
+GDOT,4.8950276,Financial Services,12.598469945390626
+GLRE,7.54025,Financial Services,12.598469945390626
+GNTY,12.3375,Financial Services,12.598469945390626
+GNW,6.6944447,Financial Services,12.598469945390626
+GS,11.211669,Financial Services,12.598469945390626
+GSBC,10.530488,Financial Services,12.598469945390626
+GSHD,26.823812,Financial Services,12.598469945390626
+HAFC,6.928251,Financial Services,12.598469945390626
+HBAN,9.503497,Financial Services,12.598469945390626
+HBCP,8.142201,Financial Services,12.598469945390626
+HBNC,7.642384,Financial Services,12.598469945390626
+HCI,10.557836,Financial Services,12.598469945390626
+HFWA,9.47027,Financial Services,12.598469945390626
+HIG,8.450698,Financial Services,12.598469945390626
+HLI,22.593473,Financial Services,12.598469945390626
+HLNE,25.295303,Financial Services,12.598469945390626
+HMN,9.596859,Financial Services,12.598469945390626
+HMST,13.086021,Financial Services,12.598469945390626
+HOMB,11.817734,Financial Services,12.598469945390626
+HONE,12.313253,Financial Services,12.598469945390626
+HOPE,7.629771,Financial Services,12.598469945390626
+HRTG,5.7629943,Financial Services,12.598469945390626
+HTBI,9.073944,Financial Services,12.598469945390626
+HTBK,9.638555,Financial Services,12.598469945390626
+HTH,17.975758,Financial Services,12.598469945390626
+HTLF,8.838174,Financial Services,12.598469945390626
+HWC,9.174603,Financial Services,12.598469945390626
+IBCP,8.518771,Financial Services,12.598469945390626
+IBKR,17.45795,Financial Services,12.598469945390626
+IBTX,9.776081,Financial Services,12.598469945390626
+ICE,19.474588,Financial Services,12.598469945390626
+INBK,7.9040403,Financial Services,12.598469945390626
+INDB,10.128487,Financial Services,12.598469945390626
+ISTR,8.706806,Financial Services,12.598469945390626
+IVZ,7.7357297,Financial Services,12.598469945390626
+JEF,10.54258,Financial Services,12.598469945390626
+JHG,10.719863,Financial Services,12.598469945390626
+JPM,12.643694,Financial Services,12.598469945390626
+JRVR,4.5051546,Financial Services,12.598469945390626
+KEY,9.033191,Financial Services,12.598469945390626
+KINS,-11.146191,Financial Services,12.598469945390626
+KKR,15.646865,Financial Services,12.598469945390626
+KMPR,10.833955,Financial Services,12.598469945390626
+KNSL,20.709383,Financial Services,12.598469945390626
+KRNY,10.887755,Financial Services,12.598469945390626
+L,26.041378,Financial Services,12.598469945390626
+LAZ,9.326969,Financial Services,12.598469945390626
+LBAI,7.6749997,Financial Services,12.598469945390626
+LBC,38.125,Financial Services,12.598469945390626
+LC,10.344595,Financial Services,12.598469945390626
+LCNB,9.4096775,Financial Services,12.598469945390626
+LKFN,16.759209,Financial Services,12.598469945390626
+LMFA,-0.4,Financial Services,12.598469945390626
+LNC,3.6435122,Financial Services,12.598469945390626
+LOB,11.87234,Financial Services,12.598469945390626
+LPLA,13.989743,Financial Services,12.598469945390626
+MA,29.180716,Financial Services,12.598469945390626
+MARA,45.457565,Financial Services,12.598469945390626
+MBCN,13.081395,Financial Services,12.598469945390626
+MBI,-9.621212,Financial Services,12.598469945390626
+MBIN,7.108963,Financial Services,12.598469945390626
+MBWM,8.238042,Financial Services,12.598469945390626
+MC,19.665339,Financial Services,12.598469945390626
+MCB,5.4707484,Financial Services,12.598469945390626
+MCBC,11.220472,Financial Services,12.598469945390626
+MCO,29.960981,Financial Services,12.598469945390626
+MCY,11.110724,Financial Services,12.598469945390626
+MET,7.1949744,Financial Services,12.598469945390626
+MHLD,8.42,Financial Services,12.598469945390626
+MKL,14.722851,Financial Services,12.598469945390626
+MKTX,24.59174,Financial Services,12.598469945390626
+MMC,20.970465,Financial Services,12.598469945390626
+MOFG,7.5000005,Financial Services,12.598469945390626
+MORN,34.31197,Financial Services,12.598469945390626
+MPB,7.0847454,Financial Services,12.598469945390626
+MS,11.9881735,Financial Services,12.598469945390626
+MSBI,7.314754,Financial Services,12.598469945390626
+MSCI,28.674356,Financial Services,12.598469945390626
+MTB,8.956281,Financial Services,12.598469945390626
+MTG,8.015565,Financial Services,12.598469945390626
+MVBF,8.060346,Financial Services,12.598469945390626
+NAVI,8.216578,Financial Services,12.598469945390626
+NBHC,10.094225,Financial Services,12.598469945390626
+NBN,7.870821,Financial Services,12.598469945390626
+NBTB,11.0282135,Financial Services,12.598469945390626
+NDAQ,19.664473,Financial Services,12.598469945390626
+NFBK,8.742268,Financial Services,12.598469945390626
+NKSH,9.872727,Financial Services,12.598469945390626
+NMIH,6.883002,Financial Services,12.598469945390626
+NNI,16.387827,Financial Services,12.598469945390626
+NRIM,9.144762,Financial Services,12.598469945390626
+NTRS,11.781691,Financial Services,12.598469945390626
+NWBI,10.872449,Financial Services,12.598469945390626
+NYCB,9.982143,Financial Services,12.598469945390626
+OCFC,7.7150264,Financial Services,12.598469945390626
+OCN,3.4677794,Financial Services,12.598469945390626
+OFG,9.155779,Financial Services,12.598469945390626
+OMF,6.9002995,Financial Services,12.598469945390626
+ONB,8.089807,Financial Services,12.598469945390626
+OPY,15.980469,Financial Services,12.598469945390626
+ORI,10.144558,Financial Services,12.598469945390626
+ORRF,6.5308642,Financial Services,12.598469945390626
+OSBC,7.352941,Financial Services,12.598469945390626
+OZK,7.15566,Financial Services,12.598469945390626
+PB,10.77187,Financial Services,12.598469945390626
+PDLB,53.7,Financial Services,12.598469945390626
+PEBO,8.472544,Financial Services,12.598469945390626
+PFBC,8.335346,Financial Services,12.598469945390626
+PFG,9.480496,Financial Services,12.598469945390626
+PFIS,7.2557254,Financial Services,12.598469945390626
+PFS,6.674208,Financial Services,12.598469945390626
+PGC,8.282051,Financial Services,12.598469945390626
+PGR,17.604572,Financial Services,12.598469945390626
+PJT,19.671486,Financial Services,12.598469945390626
+PLBC,8.186047,Financial Services,12.598469945390626
+PMTS,5.906149,Financial Services,12.598469945390626
+PNBK,3.3514853,Financial Services,12.598469945390626
+PNC,10.823426,Financial Services,12.598469945390626
+PNFP,9.801498,Financial Services,12.598469945390626
+PPBI,11.668449,Financial Services,12.598469945390626
+PRA,20.734377,Financial Services,12.598469945390626
+PRAA,13.008241,Financial Services,12.598469945390626
+PRI,10.931744,Financial Services,12.598469945390626
+PRK,17.062422,Financial Services,12.598469945390626
+PROV,9.723078,Financial Services,12.598469945390626
+PRU,7.5719156,Financial Services,12.598469945390626
+PVBC,19.93182,Financial Services,12.598469945390626
+PYPL,13.129524,Financial Services,12.598469945390626
+QCRH,8.71564,Financial Services,12.598469945390626
+RBB,10.853658,Financial Services,12.598469945390626
+RBCAA,10.812237,Financial Services,12.598469945390626
+RDN,8.514045,Financial Services,12.598469945390626
+RF,8.850678,Financial Services,12.598469945390626
+RGA,8.72559,Financial Services,12.598469945390626
+RIOT,18.077585,Financial Services,12.598469945390626
+RJF,11.981846,Financial Services,12.598469945390626
+RLI,24.231163,Financial Services,12.598469945390626
+RM,4.186795,Financial Services,12.598469945390626
+RNR,6.2798047,Financial Services,12.598469945390626
+RNST,10.623188,Financial Services,12.598469945390626
+RVSB,8.366667,Financial Services,12.598469945390626
+SAFT,12.636801,Financial Services,12.598469945390626
+SAMG,8.883929,Financial Services,12.598469945390626
+SASR,7.775281,Financial Services,12.598469945390626
+SBCF,14.144578,Financial Services,12.598469945390626
+SBFG,9.033113,Financial Services,12.598469945390626
+SBNY,0.23208192,Financial Services,12.598469945390626
+SBSI,9.694643,Financial Services,12.598469945390626
+SBT,33.214287,Financial Services,12.598469945390626
+SCHW,16.351837,Financial Services,12.598469945390626
+SEIC,14.733923,Financial Services,12.598469945390626
+SF,10.339125,Financial Services,12.598469945390626
+SFBS,13.632184,Financial Services,12.598469945390626
+SFNC,11.388158,Financial Services,12.598469945390626
+SFST,7.3452053,Financial Services,12.598469945390626
+SHBI,6.30303,Financial Services,12.598469945390626
+SIGI,11.65162,Financial Services,12.598469945390626
+SLM,7.365979,Financial Services,12.598469945390626
+SMBC,8.856833,Financial Services,12.598469945390626
+SMBK,9.449541,Financial Services,12.598469945390626
+SMMF,6.7625,Financial Services,12.598469945390626
+SNV,8.352403,Financial Services,12.598469945390626
+SPGI,25.89076,Financial Services,12.598469945390626
+SRCE,10.658798,Financial Services,12.598469945390626
+SSB,10.841134,Financial Services,12.598469945390626
+STBA,10.360543,Financial Services,12.598469945390626
+STC,9.921136,Financial Services,12.598469945390626
+STT,8.371721,Financial Services,12.598469945390626
+SYBT,12.326976,Financial Services,12.598469945390626
+SYF,7.489865,Financial Services,12.598469945390626
+TBBK,5.8304763,Financial Services,12.598469945390626
+TBNK,15.081632,Financial Services,12.598469945390626
+TCBI,13.565727,Financial Services,12.598469945390626
+TCBK,10.175,Financial Services,12.598469945390626
+TFSL,50.345837,Financial Services,12.598469945390626
+THFF,6.801126,Financial Services,12.598469945390626
+THG,9.797134,Financial Services,12.598469945390626
+TMP,9.428875,Financial Services,12.598469945390626
+TOWN,10.475806,Financial Services,12.598469945390626
+TREE,13.476811,Financial Services,12.598469945390626
+TRMK,10.493008,Financial Services,12.598469945390626
+TROW,12.622868,Financial Services,12.598469945390626
+TRST,9.14726,Financial Services,12.598469945390626
+TRUP,467.59998,Financial Services,12.598469945390626
+TRV,10.184563,Financial Services,12.598469945390626
+TW,32.608418,Financial Services,12.598469945390626
+UBCP,7.2292657,Financial Services,12.598469945390626
+UBSI,12.047971,Financial Services,12.598469945390626
+UCBI,10.755696,Financial Services,12.598469945390626
+UFCS,13.512345,Financial Services,12.598469945390626
+UMBF,10.457403,Financial Services,12.598469945390626
+UNM,5.7733483,Financial Services,12.598469945390626
+UNTY,6.415677,Financial Services,12.598469945390626
+USB,9.561628,Financial Services,12.598469945390626
+UVE,9.773763,Financial Services,12.598469945390626
+UVSP,10.537313,Financial Services,12.598469945390626
+V,25.901342,Financial Services,12.598469945390626
+VBTX,8.4089365,Financial Services,12.598469945390626
+VCTR,8.544241,Financial Services,12.598469945390626
+VIRT,8.454902,Financial Services,12.598469945390626
+VLY,6.359091,Financial Services,12.598469945390626
+VOYA,7.2563562,Financial Services,12.598469945390626
+VRTS,7.672228,Financial Services,12.598469945390626
+WABC,9.696099,Financial Services,12.598469945390626
+WAFD,8.954248,Financial Services,12.598469945390626
+WAL,6.2650537,Financial Services,12.598469945390626
+WASH,10.4933605,Financial Services,12.598469945390626
+WBS,7.102871,Financial Services,12.598469945390626
+WD,18.927275,Financial Services,12.598469945390626
+WFC,10.858835,Financial Services,12.598469945390626
+WNEB,9.59375,Financial Services,12.598469945390626
+WRB,11.942724,Financial Services,12.598469945390626
+WRLD,10.796366,Financial Services,12.598469945390626
+WSBC,10.698031,Financial Services,12.598469945390626
+WSBF,11.287128,Financial Services,12.598469945390626
+WSFS,9.941995,Financial Services,12.598469945390626
+WTBA,10.966667,Financial Services,12.598469945390626
+WTFC,9.560976,Financial Services,12.598469945390626
+WTM,29.473835,Financial Services,12.598469945390626
+WU,7.344262,Financial Services,12.598469945390626
+ZION,8.89278,Financial Services,12.598469945390626
+ACU,15.772201,Consumer Defensive,16.978317663274336
+ADM,10.247369,Consumer Defensive,16.978317663274336
+ALCO,60.170216,Consumer Defensive,16.978317663274336
+ANDE,14.499999,Consumer Defensive,16.978317663274336
+APEI,14.414584,Consumer Defensive,16.978317663274336
+AQB,-0.6257097,Consumer Defensive,16.978317663274336
+ATGE,9.58721,Consumer Defensive,16.978317663274336
+BG,10.351833,Consumer Defensive,16.978317663274336
+BGS,11.95914,Consumer Defensive,16.978317663274336
+BIG,-0.52414155,Consumer Defensive,16.978317663274336
+BJ,17.512762,Consumer Defensive,16.978317663274336
+BYND,-3.5331938,Consumer Defensive,16.978317663274336
+CAG,11.400369,Consumer Defensive,16.978317663274336
+CALM,24.21179,Consumer Defensive,16.978317663274336
+CELH,46.915585,Consumer Defensive,16.978317663274336
+CENT,16.626017,Consumer Defensive,16.978317663274336
+CENTA,14.894515,Consumer Defensive,16.978317663274336
+CHD,28.681818,Consumer Defensive,16.978317663274336
+CHEF,20.662577,Consumer Defensive,16.978317663274336
+CHGG,4.857759,Consumer Defensive,16.978317663274336
+CL,25.560055,Consumer Defensive,16.978317663274336
+CLX,23.154688,Consumer Defensive,16.978317663274336
+COKE,21.186184,Consumer Defensive,16.978317663274336
+COST,41.458096,Consumer Defensive,16.978317663274336
+COTY,20.245615,Consumer Defensive,16.978317663274336
+CPB,13.996903,Consumer Defensive,16.978317663274336
+CVGW,16.987097,Consumer Defensive,16.978317663274336
+DAR,10.1023245,Consumer Defensive,16.978317663274336
+DG,16.980024,Consumer Defensive,16.978317663274336
+DLTR,14.439412,Consumer Defensive,16.978317663274336
+EL,34.247673,Consumer Defensive,16.978317663274336
+ELF,48.045616,Consumer Defensive,16.978317663274336
+EPC,12.29836,Consumer Defensive,16.978317663274336
+FARM,-12.46,Consumer Defensive,16.978317663274336
+FC,18.369158,Consumer Defensive,16.978317663274336
+FDP,9.858238,Consumer Defensive,16.978317663274336
+FIZZ,21.899498,Consumer Defensive,16.978317663274336
+FLO,18.98855,Consumer Defensive,16.978317663274336
+FRPT,172.42741,Consumer Defensive,16.978317663274336
+GHC,16.123148,Consumer Defensive,16.978317663274336
+GIS,14.957356,Consumer Defensive,16.978317663274336
+HAIN,13.151957,Consumer Defensive,16.978317663274336
+HELE,9.022351,Consumer Defensive,16.978317663274336
+HLF,3.4370077,Consumer Defensive,16.978317663274336
+HRL,21.053572,Consumer Defensive,16.978317663274336
+HSY,19.94186,Consumer Defensive,16.978317663274336
+IMKTA,15.375532,Consumer Defensive,16.978317663274336
+INGR,11.176241,Consumer Defensive,16.978317663274336
+IPAR,20.339376,Consumer Defensive,16.978317663274336
+JBSS,20.899158,Consumer Defensive,16.978317663274336
+JJSF,23.152802,Consumer Defensive,16.978317663274336
+JVA,4.0499997,Consumer Defensive,16.978317663274336
+K,15.316273,Consumer Defensive,16.978317663274336
+KDP,16.19082,Consumer Defensive,16.978317663274336
+KHC,12.811667,Consumer Defensive,16.978317663274336
+KMB,17.983421,Consumer Defensive,16.978317663274336
+KO,22.069395,Consumer Defensive,16.978317663274336
+KR,12.187912,Consumer Defensive,16.978317663274336
+LANC,27.395954,Consumer Defensive,16.978317663274336
+LAUR,9.620915,Consumer Defensive,16.978317663274336
+LFVN,8.654286,Consumer Defensive,16.978317663274336
+LINC,15.529412,Consumer Defensive,16.978317663274336
+LMNR,46.92857,Consumer Defensive,16.978317663274336
+LOPE,15.379837,Consumer Defensive,16.978317663274336
+LRN,13.7510195,Consumer Defensive,16.978317663274336
+LW,13.363199,Consumer Defensive,16.978317663274336
+LWAY,17.106558,Consumer Defensive,16.978317663274336
+MDLZ,20.43662,Consumer Defensive,16.978317663274336
+MGPI,11.724892,Consumer Defensive,16.978317663274336
+MKC,24.63474,Consumer Defensive,16.978317663274336
+MNST,26.292685,Consumer Defensive,16.978317663274336
+MO,8.87247,Consumer Defensive,16.978317663274336
+NATR,20.515625,Consumer Defensive,16.978317663274336
+NGVC,20.146341,Consumer Defensive,16.978317663274336
+NUS,7.780646,Consumer Defensive,16.978317663274336
+NWL,10.480264,Consumer Defensive,16.978317663274336
+OLLI,20.41243,Consumer Defensive,16.978317663274336
+PEP,19.846153,Consumer Defensive,16.978317663274336
+PFGC,13.353635,Consumer Defensive,16.978317663274336
+PG,24.933077,Consumer Defensive,16.978317663274336
+PM,13.714078,Consumer Defensive,16.978317663274336
+POST,16.646418,Consumer Defensive,16.978317663274336
+PPC,11.290626,Consumer Defensive,16.978317663274336
+PRMW,17.811321,Consumer Defensive,16.978317663274336
+PSMT,17.016842,Consumer Defensive,16.978317663274336
+REED,-1.7297297,Consumer Defensive,16.978317663274336
+RIBT,-1.4545454,Consumer Defensive,16.978317663274336
+RKDA,-0.44327545,Consumer Defensive,16.978317663274336
+RMCF,3.729271,Consumer Defensive,16.978317663274336
+SAM,22.307081,Consumer Defensive,16.978317663274336
+SANW,-2.1,Consumer Defensive,16.978317663274336
+SFM,21.396496,Consumer Defensive,16.978317663274336
+SJM,11.238002,Consumer Defensive,16.978317663274336
+SMPL,17.688442,Consumer Defensive,16.978317663274336
+SPB,17.349474,Consumer Defensive,16.978317663274336
+SPTN,9.414634,Consumer Defensive,16.978317663274336
+STRA,20.648937,Consumer Defensive,16.978317663274336
+STZ,16.819986,Consumer Defensive,16.978317663274336
+SYY,15.784811,Consumer Defensive,16.978317663274336
+TAP,9.922689,Consumer Defensive,16.978317663274336
+TGT,15.334285,Consumer Defensive,16.978317663274336
+THS,13.584838,Consumer Defensive,16.978317663274336
+TPB,8.952978,Consumer Defensive,16.978317663274336
+TR,-15.333333,Consumer Defensive,16.978317663274336
+TSN,16.535519,Consumer Defensive,16.978317663274336
+TWOU,6.3775005,Consumer Defensive,16.978317663274336
+UNFI,15.3389845,Consumer Defensive,16.978317663274336
+USFD,13.99726,Consumer Defensive,16.978317663274336
+USNA,13.61182,Consumer Defensive,16.978317663274336
+UTI,18.66747,Consumer Defensive,16.978317663274336
+VGR,7.7669168,Consumer Defensive,16.978317663274336
+WMT,24.504131,Consumer Defensive,16.978317663274336
+XXII,-0.10680865,Consumer Defensive,16.978317663274336
+AE,-93.59376,Energy,12.36454823211009
+AM,14.255102,Energy,12.36454823211009
+AMTX,-7.82,Energy,12.36454823211009
+APA,5.9981346,Energy,12.36454823211009
+AR,12.414545,Energy,12.36454823211009
+AROC,16.76695,Energy,12.36454823211009
+BOOM,6.754166,Energy,12.36454823211009
+BRY,8.608911,Energy,12.36454823211009
+BTU,8.493297,Energy,12.36454823211009
+CEIX,6.259396,Energy,12.36454823211009
+CHK,12.697803,Energy,12.36454823211009
+CLB,13.186991,Energy,12.36454823211009
+CLNE,47.899998,Energy,12.36454823211009
+CNX,13.319445,Energy,12.36454823211009
+COP,13.310559,Energy,12.36454823211009
+CPE,5.1901307,Energy,12.36454823211009
+CRC,8.099547,Energy,12.36454823211009
+CRK,11.291208,Energy,12.36454823211009
+CVI,12.987531,Energy,12.36454823211009
+CVX,12.342809,Energy,12.36454823211009
+DK,20.15,Energy,12.36454823211009
+DRQ,20.554457,Energy,12.36454823211009
+DVN,9.073172,Energy,12.36454823211009
+DWSN,-3.26,Energy,12.36454823211009
+EE,16.04717,Energy,12.36454823211009
+EGY,6.9,Energy,12.36454823211009
+ENSV,-3.5966668,Energy,12.36454823211009
+EOG,11.020065,Energy,12.36454823211009
+EPM,10.8018875,Energy,12.36454823211009
+EQT,10.83201,Energy,12.36454823211009
+ETRN,14.427084,Energy,12.36454823211009
+FANG,10.007854,Energy,12.36454823211009
+FET,9.0,Energy,12.36454823211009
+FTI,14.858808,Energy,12.36454823211009
+FTK,6.481481,Energy,12.36454823211009
+GEOS,30.95,Energy,12.36454823211009
+GPOR,5.581467,Energy,12.36454823211009
+HAL,9.723351,Energy,12.36454823211009
+HES,15.044362,Energy,12.36454823211009
+HLX,13.22561,Energy,12.36454823211009
+HNRG,19.461538,Energy,12.36454823211009
+HP,10.235897,Energy,12.36454823211009
+ICD,-2.0666668,Energy,12.36454823211009
+INSW,5.542914,Energy,12.36454823211009
+KLXE,7.3404255,Energy,12.36454823211009
+KMI,14.732,Energy,12.36454823211009
+KOS,5.410378,Energy,12.36454823211009
+LBRT,6.8773007,Energy,12.36454823211009
+LEU,15.250896,Energy,12.36454823211009
+LNG,16.582905,Energy,12.36454823211009
+LPG,9.097613,Energy,12.36454823211009
+MGY,10.995727,Energy,12.36454823211009
+MNR,5.8737817,Energy,12.36454823211009
+MPC,11.117251,Energy,12.36454823211009
+MRC,8.099291,Energy,12.36454823211009
+MRO,8.592768,Energy,12.36454823211009
+MTDR,7.5694113,Energy,12.36454823211009
+MUR,7.6641545,Energy,12.36454823211009
+NBR,10.488145,Energy,12.36454823211009
+NCSM,9.878855,Energy,12.36454823211009
+NE,7.7716255,Energy,12.36454823211009
+NFG,8.58521,Energy,12.36454823211009
+NGS,17.148148,Energy,12.36454823211009
+NINE,-4.054643,Energy,12.36454823211009
+NOG,6.909688,Energy,12.36454823211009
+NOV,10.417582,Energy,12.36454823211009
+NR,16.928572,Energy,12.36454823211009
+OII,12.430895,Energy,12.36454823211009
+OIS,9.088889,Energy,12.36454823211009
+OKE,14.581652,Energy,12.36454823211009
+OSG,20.066666,Energy,12.36454823211009
+OXY,14.323404,Energy,12.36454823211009
+PARR,8.394667,Energy,12.36454823211009
+PBF,9.587522,Energy,12.36454823211009
+PED,24.500002,Energy,12.36454823211009
+PFIE,10.027777,Energy,12.36454823211009
+PHX,10.75,Energy,12.36454823211009
+PSX,10.147829,Energy,12.36454823211009
+PTEN,10.65534,Energy,12.36454823211009
+PUMP,13.7890625,Energy,12.36454823211009
+PXD,11.7789545,Energy,12.36454823211009
+REI,3.8137257,Energy,12.36454823211009
+RES,7.703445,Energy,12.36454823211009
+RIG,11.554348,Energy,12.36454823211009
+RRC,10.61095,Energy,12.36454823211009
+SBOW,3.5625691,Energy,12.36454823211009
+SD,12.889908,Energy,12.36454823211009
+SDPI,10.958334,Energy,12.36454823211009
+SLB,12.412213,Energy,12.36454823211009
+SLCA,12.4,Energy,12.36454823211009
+SM,6.8107,Energy,12.36454823211009
+SND,9.08,Energy,12.36454823211009
+SOI,10.430233,Energy,12.36454823211009
+SWN,6.3237705,Energy,12.36454823211009
+TALO,22.344261,Energy,12.36454823211009
+TDW,11.472806,Energy,12.36454823211009
+TELL,-3.4892309,Energy,12.36454823211009
+TRGP,15.757551,Energy,12.36454823211009
+TTI,9.2375,Energy,12.36454823211009
+UEC,347.0,Energy,12.36454823211009
+USEG,-28.55,Energy,12.36454823211009
+VAL,6.7502546,Energy,12.36454823211009
+VLO,11.297636,Energy,12.36454823211009
+VTNR,-3.8382351,Energy,12.36454823211009
+VVV,21.385788,Energy,12.36454823211009
+WHD,15.319404,Energy,12.36454823211009
+WMB,18.829268,Energy,12.36454823211009
+WTI,-15.433333,Energy,12.36454823211009
+XOM,12.243589,Energy,12.36454823211009
+AEE,15.05204,Utilities,17.248461625
+AEP,14.649328,Utilities,17.248461625
+AES,8.545895,Utilities,17.248461625
+AGR,15.136929,Utilities,17.248461625
+ALE,14.2139435,Utilities,17.248461625
+ARTNA,16.547619,Utilities,17.248461625
+ATO,16.651133,Utilities,17.248461625
+AVA,13.78876,Utilities,17.248461625
+AWK,21.477114,Utilities,17.248461625
+AWR,21.503048,Utilities,17.248461625
+BKH,13.230486,Utilities,17.248461625
+CDZI,-11.842106,Utilities,17.248461625
+CMS,16.663889,Utilities,17.248461625
+CPK,16.807148,Utilities,17.248461625
+CWT,20.521097,Utilities,17.248461625
+D,14.969117,Utilities,17.248461625
+DTE,15.338772,Utilities,17.248461625
+DUK,15.508689,Utilities,17.248461625
+ED,16.68393,Utilities,17.248461625
+EIX,12.680358,Utilities,17.248461625
+ES,12.476091,Utilities,17.248461625
+ETR,13.82513,Utilities,17.248461625
+EVRG,12.966873,Utilities,17.248461625
+EXC,14.210305,Utilities,17.248461625
+FE,13.38112,Utilities,17.248461625
+GNE,34.065216,Utilities,17.248461625
+GWRS,37.02941,Utilities,17.248461625
+HE,4.4819,Utilities,17.248461625
+IDA,16.34662,Utilities,17.248461625
+LNT,15.123854,Utilities,17.248461625
+MGEE,19.35856,Utilities,17.248461625
+MSEX,21.474468,Utilities,17.248461625
+NEE,18.313858,Utilities,17.248461625
+NI,14.97027,Utilities,17.248461625
+NJR,15.083332,Utilities,17.248461625
+NRG,11.294478,Utilities,17.248461625
+NWE,13.725543,Utilities,17.248461625
+NWN,13.580071,Utilities,17.248461625
+OGE,15.013102,Utilities,17.248461625
+OGS,15.450603,Utilities,17.248461625
+ORA,26.236626,Utilities,17.248461625
+OTTR,20.42823,Utilities,17.248461625
+PCYO,103.99999,Utilities,17.248461625
+PEG,16.84406,Utilities,17.248461625
+PNM,13.08719,Utilities,17.248461625
+PNW,14.960286,Utilities,17.248461625
+POR,13.293847,Utilities,17.248461625
+PPL,14.9153,Utilities,17.248461625
+RGCO,16.356379,Utilities,17.248461625
+SJW,18.036789,Utilities,17.248461625
+SO,17.172853,Utilities,17.248461625
+SR,13.399563,Utilities,17.248461625
+SRE,13.861435,Utilities,17.248461625
+SWX,20.293716,Utilities,17.248461625
+UGI,8.590909,Utilities,17.248461625
+UTL,16.225807,Utilities,17.248461625
+VST,16.255766,Utilities,17.248461625
+WEC,15.755749,Utilities,17.248461625
+XEL,14.010417,Utilities,17.248461625
+YORW,20.884792,Utilities,17.248461625
+AMC,-3.711125,Communication Services,
+AMCX,2.072797,Communication Services,
+ANGI,36.083332,Communication Services,
+ATNI,64.43333,Communication Services,
+ATUS,7.769231,Communication Services,
+BATRA,-97.635956,Communication Services,
+BATRK,-158.375,Communication Services,
+BBGI,-4.8821425,Communication Services,
+CABO,9.369451,Communication Services,
+CCO,-10.214285,Communication Services,
+CCOI,-20.932629,Communication Services,
+CDLX,31.9125,Communication Services,
+CHTR,7.477694,Communication Services,
+CMCSA,8.45323,Communication Services,
+CNK,10.391566,Communication Services,
+CNSL,-2.8084414,Communication Services,
+DGLY,-0.24118944,Communication Services,
+DIS,21.55477,Communication Services,
+DLX,5.8994083,Communication Services,
+EA,16.770805,Communication Services,
+EDUC,5.1904764,Communication Services,
+EEX,-69.37501,Communication Services,
+EVC,-11.184211,Communication Services,
+EVER,-105.02631,Communication Services,
+FLNT,21.928572,Communication Services,
+FOX,12.25532,Communication Services,
+FOXA,8.259259,Communication Services,
+FWONA,45.376812,Communication Services,
+FWONK,50.920288,Communication Services,
+GAIA,403.00003,Communication Services,
+GCI,10.145833,Communication Services,
+GOGO,15.91228,Communication Services,
+GOOG,21.323195,Communication Services,
+GOOGL,19.697042,Communication Services,
+GRPN,8.679105,Communication Services,
+GSAT,-129.93,Communication Services,
+GTN,-10.896227,Communication Services,
+IAC,-72.2985,Communication Services,
+IDT,23.953333,Communication Services,
+INUV,inf,Communication Services,
+IPG,10.317276,Communication Services,
+IRDM,32.77551,Communication Services,
+IZEA,19.2,Communication Services,
+LBRDA,5.8700237,Communication Services,
+LBRDK,6.511811,Communication Services,
+LBTYA,-9.206897,Communication Services,
+LBTYK,-3.4063785,Communication Services,
+LEE,6.6489363,Communication Services,
+LILA,9.425625,Communication Services,
+LILAK,25.05,Communication Services,
+LSXMA,9.270565,Communication Services,
+LSXMK,15.822581,Communication Services,
+LTRPA,-3.902439,Communication Services,
+LYV,40.50901,Communication Services,
+MCHX,70.0,Communication Services,
+MCS,23.927273,Communication Services,
+MTCH,12.541833,Communication Services,
+NCMI,33.038464,Communication Services,
+NFLX,26.588207,Communication Services,
+NWSA,26.691011,Communication Services,
+NXST,9.427743,Communication Services,
+NYT,23.040106,Communication Services,
+OMC,11.0760355,Communication Services,
+OOMA,11.395162,Communication Services,
+PINS,20.150887,Communication Services,
+PLAY,10.104762,Communication Services,
+QNST,33.28302,Communication Services,
+RBBN,9.772727,Communication Services,
+RDI,-3.3958335,Communication Services,
+ROKU,-52.104347,Communication Services,
+SALM,-39.38,Communication Services,
+SBGI,-22.472727,Communication Services,
+SCHL,11.850498,Communication Services,
+SCOR,3.5772152,Communication Services,
+SGA,13.406976,Communication Services,
+SHEN,-118.63637,Communication Services,
+SIRI,9.121212,Communication Services,
+SNAP,43.07143,Communication Services,
+SSP,375.0,Communication Services,
+SSTK,8.90249,Communication Services,
+T,7.89486,Communication Services,
+TDS,-24.548439,Communication Services,
+TGNA,6.5946603,Communication Services,
+TMUS,14.845735,Communication Services,
+TSQ,9.089776,Communication Services,
+TTGT,13.850253,Communication Services,
+TTWO,24.064598,Communication Services,
+TWLO,18.854939,Communication Services,
+TZOO,7.8082643,Communication Services,
+UPWK,12.270833,Communication Services,
+USM,30.043388,Communication Services,
+VZ,8.986395,Communication Services,
+WOW,-11.203125,Communication Services,
+YELP,19.509525,Communication Services,
+Z,20.66627,Communication Services,
+ZDGE,-3.8333333,Communication Services,
+ZG,20.770733,Communication Services,

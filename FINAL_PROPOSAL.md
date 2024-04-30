@@ -63,11 +63,11 @@ To accomplish this, The Report File will Consist of 4 Sections:
   - Industry Average PE Ratio
   - Market Capitalization
 
-|            | Year End Data |          |         |         |         |         |
-|------------|---------------|----------|---------|---------|---------|---------|
-|            | "2020-2023"   |          |         |         |         |         |
-|            | Price         | Net Income | Net Income Growth | PE Ratio | GSECTOR   | Industry PE Ratio | Market Cap |
-| Stock      |               |           |                   |          |         |                    |            |
+|            | Year End Data |          |         |         |         |         
+|------------|---------------|----------|---------|---------|---------|
+|            | "2020-2023"   |          |         |         |         |         
+|            | Net Income | Net Income Growth | PE Ratio | GSECTOR   | Industry PE Ratio | Market Cap |
+| Stock      |               |           |                   |          |         |                    |            
 
 **Fast Growers**: 
 - Key Information:

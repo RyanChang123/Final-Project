@@ -80,41 +80,40 @@ To accomplish this, The Report File will Consist of 4 Sections:
   - Stock Price
   - Market Capitalization
   
-|          | Year End Date | Market Cap |
-|----------|---------------|------------|
-|          |    "2020-2023"  |            |
-|          | Price         | Market Cap |
-| Stock    |               |            |
+| Ticker | 2020 (price) | 2020 (market cap) | 2021 (price) | 2021 (market cap) | 2022 (price) | 2022 (market cap) | 2023 (price) | 2023 (market cap) |
+|--------|--------------|-------------------|--------------|-------------------|--------------|-------------------|--------------|-------------------|
+|        |              |                   |              |                   |              |                   |              |                   |
 
-**Wilshire 5000 returns**: 
+
+
+**Wilshire 5000 % S&P 500 Returns**: 
 - Key Information:
   - Stock Price
  
-|          | Year End Date |
-|----------|---------------|
-|         |      "2020-2023"     |          
-|          | Price         |
-| Stock    |               |
+| Ticker | 2020 (price) | 2021 (price) | 2022 (price) | 2023 (price) |
+|--------|--------------|--------------|--------------|--------------|
+| Wilshire 5000       |              |              |              |              |
+
+| Ticker | 2020 (price) | 2021 (price) | 2022 (price) | 2023 (price) |
+|--------|--------------|--------------|--------------|--------------|
+| S&P     |              |              |              |              |
 
 
 #### Data Transformation
 
-**Step 1: Prepare and Clean Data**
-- Clean the data: Ensure critical columns have no missing values. Remove firms with missing critical values. 
+**Step 1: Collect data**
+- Collect necessary data for creating hollistic Slow Grower, Stalwart, and Fast Grower screening.
 
 **Step 2: Pull Necessary Data From Each Dataset**
-- Slow_Growers.csv
-- Stalwarts.csv
-- Fast_Growers.csv
-- Wilshire_return.csv
-- Screened_return.csv
+    - Clean_Slow_Grow_Master.csv
+    - Clean_Stalwart_Master.csv
+    - Clean_Fast_Grower_Master.csv
 
 **Step 3: Screen Datasets for Peter Lynch Criterion**
-- Slow Growers
+- Screened_Slow_Grow.csv
     - Paid Dividends Every Year?
     - Have Dividends Paid Decreased In Any Year?
-    - Dividends Paid Less than 40% of Net Income?
-- Stalwarts 
+- Screened_Stalwart.csv:
     - Company PE Ratio Lower Than Industry Average?
     - Has There Been Consistent Net Income Growth?
     - Market Cap IS Large-Cap or Mega-Cap
@@ -123,7 +122,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
         - mid-cap: market value between $2 billion and $10 billion;
         - small-cap: market value between $250 million and $2 billion; and
         - micro-cap: market value of less than $250 million.
-- Fast Growers 
+- Screened_Fast_Grower.csv:
     - Is Net Income Growth Between 20% - 25%?
     - Is The PE Ratio Between 25 - 30?
 

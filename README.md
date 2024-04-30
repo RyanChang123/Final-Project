@@ -41,7 +41,7 @@
     - Screened_Slow_Grow.csv: Screens the "Clean_Slow_Grow_Master.csv" based on Lynch's Criteria
     - Screened_Stalwart.csv: Screens the "Clean_Stalwart_Master.csv" based on Lynch's Criteria
     - Screened_Fast_Grower.csv: Screens the "Clean_Fast_Grower_Master.csv" based on Lynch's Criteria
-    - 
+    
     
 
 

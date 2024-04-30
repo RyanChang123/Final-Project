@@ -1,37 +1,48 @@
-General idea: The question/problem are you interested in, the data you need to acquire, the variables you’ll use, and the plan for how you’ll analyze it (what methods you’ll try and why you think they apply to your problem), considerations about how data might impact that.
-Treat this document as if it is public facing, and a proposal for which you would like funding. That is, the proposal document should be polished (both in visual formatting and editing) for external audiences.
-Graded on: question viability, creativity, finance application, plan sketch, writing quality.
-Instructions for the proposals are here.
+## Steps to Follow 
 
-Research Question¶
-This section should cover:
+# Packages Needed:
+    import yfinance as yf
+    import pandas as pd
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import plotly.express as px
+    
+        1. Read the Final PROPOSAL
+        2. Load the Builder.ipynb 
+        2. Read the Concluding thoughts 
 
-What do we want to know or what problems are we trying to solve? As in the midterm, you should list (1) the “bigger” question/debate/problem you’re interested in, and also (2) the specific research question(s) you’ll actually try to answer.
-The research question will be smaller in scope than the big picture question. But the answer to your specific research question should shed light on the bigger question (although it likely won’t conclusively answer it).
-The answer to your specific research question should shed light on the bigger question (although it likely won’t conclusively answer it).
-If your project is about relationships, what are the hypotheses you’re testing?
-If your project is about prediction, what is your metrics of success? (What are you maximizing?) Can you find a baseline from prior work to give you a ball park to aim for?
-Necessary Data¶
-This section should cover:
+# Key information:
+    - Analysis is based off year 2020 - 2023
+    - Wilshire 5000 used as an index
+    - S&P Returns used as an index
+    - Risk free assumption in Efficient Frontier analysis is 4%
+    - Code lines 2, 3, 8, 9, 10 will take over an hour to run together
 
-What does the final dataset need to look like (mostly dictated by the question and the availability of data):
-What is an observation, e.g. a firm, or a firm-year, etc.
-What is the sample period?
-What are the sample conditions? (Years, restrictions you anticipate (e.g. exclude or require some industries)
-What variables are absolutely necessary and what would you like to have if possible?
-What data do we have and what data do we need?
-How will we collect more data?
-What are the raw inputs and how will you store them (the folder structure(s) for each input type)?
-Speculate at a high level (not specific code!) about how you’ll transform the raw data into the final form.
-Acknowledgment: We are effectively answering questions 1.1-1.3 and 2.1-2.3 from DS100 in this proposal.
-
-
-
-
-
-
-
-
+# CSV files breakdown
+    - Wilkshire_5000.csv : Lists firms in the Wilshire 5000 
+    - net_income_data_grouped.csv : Lists firms and 4 years of Net Income 
+    - dividend_data_grouped.csv: Lists firms and 4 years of Dividend Information
+    - merged_data.csv: Merged "net_income_data_grouped.csv" + "dividend_data_grouped.csv" based on Ticker
+    - Slow_Grow_Master.csv : Renamed "merged_data.csv" with an updated 1st column of name of Ticker
+    - modified_net_income_data.csv: Adds Net Income Growth Columns to "net_income_data_grouped.csv"
+    - ticker_2023_PE.csv: Creates a list of Ticker PE ratios
+    - ticker_Gsector.csv: Creates a list of Ticker Gsectors
+    - ticker_2023_MarketCap.csv: Creates a list of Ticker Market Capitalizations
+    - PE_Gsector.csv: Merges the "ticker_Gsector.csv" + "ticker_2023_PE.csv" on the Ticker column
+    - PE_Gsector_with_avg.csv: Adds the avgerage PE grouped by Gsector column to "PE_Gsector.csv"
+    - cleaned_PE_Gsector_with_avg.csv: Cleans the "PE_Gsector_with_avg.csv" removing items messing with the calculation
+    - ticker_2023_MarketCap_with_Category.csv: Adds a categorization to "ticker_2023_MarketCap.csv"
+    - Stalwart_Master.csv: Combines "ticker_2023_MarketCap_with_Category.csv" + "cleaned_PE_Gsector_with_avg.csv" + "modified_net_income_data.csv" on the Ticker column
+    - NI_Grow_PE.csv: combines the "modified_net_income_data.csv" + "ticker_2023_PE.csv" on Ticker
+    - Fast_Grower_Master.csv: Adds an optimal growth column to "NI_Grow_PE.csv"
+    - Clean_Slow_Grow_Master.csv: cleans "Slow_Grow_Master.csv" by dropping missing values 
+    - Clean_Fast_Grower_Master.csv: cleans "Fast_Grower_Master.csv" by dropping missing values 
+    - Clean_Stalwart_Master.csv: cleans "Stalwart_Master.csv" by dropping missing values 
+    - Screened_Slow_Grow.csv: Screens the "Clean_Slow_Grow_Master.csv" based on Lynch's Criteria
+    - Screened_Stalwart.csv: Screens the "Clean_Stalwart_Master.csv" based on Lynch's Criteria
+    - Screened_Fast_Grower.csv: Screens the "Clean_Fast_Grower_Master.csv" based on Lynch's Criteria
+    - 
+    
 
 
 

@@ -44,8 +44,9 @@ To accomplish this, The Report File will Consist of 4 Sections:
   - Were Dividends Paid?
   - Dividends Growth Year over Year
   
-| Ticker | 2020_NI    | 2021_NI    | 2022_NI    | 2023_NI    | 2020_Div | 2021_Div | 2022_Div | 2023_Div | 2020_2021_Div_Grow | 2021_2022_Div_Grow | 2022_2023_Div_Grow |
-|--------|------------|------------|------------|
+| Ticker | 2020_NI | 2021_NI | 2022_NI | 2023_NI | 2020_Div | 2021_Div | 2022_Div | 2023_Div | 2020_2021_Div_Grow | 2021_2022_Div_Grow | 2022_2023_Div_Grow |
+|--------|---------|---------|---------|---------|----------|----------|----------|----------|---------------------|---------------------|---------------------|
+
 
 
 

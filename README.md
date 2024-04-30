@@ -7,9 +7,10 @@
     import matplotlib.pyplot as plt
     import plotly.express as px
     
-        1. Read the Final PROPOSAL
-        2. Load the Builder.ipynb 
-        2. Read the Concluding thoughts 
+# 1. Finish Reading the README.md
+# 2. Read the FINAL PROPOSAL
+# 3. Load the Builder.ipynb
+# 4. Read the Concluding thoughts 
 
 # Key information:
     - Analysis is based off year 2020 - 2023
@@ -41,7 +42,6 @@
     - Screened_Slow_Grow.csv: Screens the "Clean_Slow_Grow_Master.csv" based on Lynch's Criteria
     - Screened_Stalwart.csv: Screens the "Clean_Stalwart_Master.csv" based on Lynch's Criteria
     - Screened_Fast_Grower.csv: Screens the "Clean_Fast_Grower_Master.csv" based on Lynch's Criteria
-    - 
     
 
 

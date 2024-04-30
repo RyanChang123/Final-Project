@@ -10,9 +10,8 @@
 # Review Parts in this Order
     1. Finish Reading the README.md
     2. Read the FINAL PROPOSAL
-    3. Read the Overview
-    4. Load the Builder.ipynb
-    5. Read the Concluding Analysis 
+    3. Load the Builder.ipynb
+    4. Read the Concluding Analysis 
 
 # Key information:
     - Analysis is based off year 2020 - 2023

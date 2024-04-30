@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-# Jupyter notebook files
 Finalmess.ipynb
+Fun.ipynb
+Mess.ipynb
+PROPOSAL.md
 # C extensions
 *.so
 

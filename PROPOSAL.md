@@ -32,9 +32,9 @@ This section should cover:
 3. Fast Growers 
     - 5 years of data 
     - Need proper net income growth 
-       - not 10% - 20%
-       - ideal 20% - 25% 
-       - no over 25% 
+       - Too low 10% - 20%
+       - Ideal 20% - 25% 
+       - Too high 25% 
     - PE ratio of stock needs to be near the growth rate 
 
 What does the final dataset need to look like (mostly dictated by the question and the availability of data):

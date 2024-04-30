@@ -114,7 +114,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
     - Paid Dividends Every Year?
     - Have Dividends Paid Decreased In Any Year?
 - Screened_Stalwart.csv:
-    - Company PE Ratio Lower Than Industry Average?
+    - Company PE Ratio Similar to Industry PE Averages?
     - Has There Been Consistent Net Income Growth?
     - Market Cap IS Large-Cap or Mega-Cap
         - mega-cap: market value of $200 billion or more
@@ -124,19 +124,20 @@ To accomplish this, The Report File will Consist of 4 Sections:
         - micro-cap: market value of less than $250 million.
 - Screened_Fast_Grower.csv:
     - Is Net Income Growth Between 20% - 25%?
-    - Is The PE Ratio Between 25 - 30?
+    - Is The PE Ratio Near the Net Income Growth?
 
 **Step 4: Create a List of Peter Lynch Companies**
 - Create a listed of screened Slow Growers, Stalwarts, and Fast Growers.
 - Create a dataset which returns their market cap and stock price between 2020-2023.
 - Simulate the return of the Peter lynch Screened Companies over that time. 
 
-**Step 5: Create a List of Wilshire 5000 Returns**
-- Create a dataset which returns the Wilshire stock price between 2020-2023.
-
+**Step 5: Create a List of Wilshire 5000 & S&P 500 Returns**
+- Create a dataset which returns the Wilshire 5000 stock price between 2020-2023.
+- Create a dataset which returns the S&P 500 stock price between 2020-2023.
+  
 **Step 6: Draw Conclusion**
-- Compare the return of the screened companies compared to the return of the index
-    - Do this for each screened grouping
+- Graph the Screened Companies against the returns of the indexes
+- Perform more exploration on the screened companies
 
 ### Resources
 - [Whilshire List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)

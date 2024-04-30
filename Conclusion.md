@@ -18,5 +18,5 @@
     The focus of this project was on the first three given their quantitative nature.
     
 # Conclusion 
-    
+    ![Index Performance](index_performance.png)
     

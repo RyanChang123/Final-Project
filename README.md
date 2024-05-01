@@ -12,11 +12,12 @@
     2. Read the FINAL PROPOSAL
     3. Load the Builder.ipynb
     4. Read the Concluding Analysis 
+    5. Take a Look at the Graphs
 
 # Key information:
     - Analysis is based off year 2020 - 2023
     - Wilshire 5000 used as an index
-    - S&P Returns used as an index
+    - S&P 500 Returns used as an index
     - Risk free assumption in Efficient Frontier analysis is 4%
     - Code lines 2, 3, 8, 9, 10 will take over an hour to run together
 

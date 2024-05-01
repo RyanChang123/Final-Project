@@ -12,6 +12,7 @@
     2. Read the FINAL PROPOSAL
     3. Load the Builder.ipynb
     4. Read the Concluding Analysis 
+    5. Take a Look at the Graphs
 
 # Key information:
     - Analysis is based off year 2020 - 2023

@@ -10,9 +10,8 @@
 # Review Parts in this Order
     1. Finish Reading the README.md
     2. Read the FINAL PROPOSAL
-    3. Read the Overview
-    4. Load the Builder.ipynb
-    5. Read the Concluding Analysis 
+    3. Load the Builder.ipynb
+    4. Read the Concluding Analysis 
 
 # Key information:
     - Analysis is based off year 2020 - 2023
@@ -44,10 +43,7 @@
     - Screened_Slow_Grow.csv: Screens the "Clean_Slow_Grow_Master.csv" based on Lynch's Criteria
     - Screened_Stalwart.csv: Screens the "Clean_Stalwart_Master.csv" based on Lynch's Criteria
     - Screened_Fast_Grower.csv: Screens the "Clean_Fast_Grower_Master.csv" based on Lynch's Criteria
-<<<<<<< HEAD
-    
-=======
->>>>>>> 603dcf14ec34cb517279b9a0d4e7e2a8a1a01aaf
+
     
 
 

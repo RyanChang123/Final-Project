@@ -32,7 +32,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
   - **Source:**  [Wilshire 5000 List](https://info.wilshire.com/Wilshire-5000-Index-Fund-Holdings)
 - **Stock Data**: Key Stock Information.
   - **Source:** Yahoo Finance
-- **Wilshire 5000**: Performance from 2021-Present.
+- **Wilshire 5000**: Performance from 2020-2023.
   - **Source:** Yahoo Finance
 
 ### Final Datasets
@@ -40,7 +40,7 @@ To accomplish this, The Report File will Consist of 4 Sections:
 **Slow Growers**: 
 
 - Key Information:
-  - Year End Data for 5 years (2015-2019)
+  - Year End Data for 5 years (2020-2023)
   - Were Dividends Paid?
   - Dividends Growth Year over Year
   
